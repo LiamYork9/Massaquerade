@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dialog Point Segment
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 40, y: -296}
+  position: {x: 200, y: -264}
   ports:
     keys:
     - input
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Name: Dialogue Upadate
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -312, y: -280}
+  position: {x: -344, y: 72}
   ports:
     keys:
     - highpoints
@@ -238,7 +238,7 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 0}
+  portrait: {fileID: -7456911363214748983, guid: a57564df6b5b3e847b9b17315d78060e, type: 3}
   speakerName: 
   DialogText:
   - Math

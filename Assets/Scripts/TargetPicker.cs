@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.UI;
+using System;
 public class TargetPicker : MonoBehaviour
 {
      public List<GameObject> choices;
@@ -11,9 +12,15 @@ public class TargetPicker : MonoBehaviour
 
      public Image deathImage;
 
+     public List<String> Quirks;
+
+    public List<String> DislikesLikes;
+
     
     void Start()
     {
+        
+
          if (choices != null && choices.Count > 0)
         {
            GameObject randomTarget = GetRandomObject(choices);
@@ -37,7 +44,7 @@ public class TargetPicker : MonoBehaviour
      public GameObject GetRandomObject(List<GameObject> list)
     {
         
-        int randomIndex = Random.Range(0, list.Count);
+        int randomIndex = UnityEngine.Random.Range(0, list.Count);
 
        
         return list[randomIndex];
