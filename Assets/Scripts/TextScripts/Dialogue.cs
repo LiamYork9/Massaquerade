@@ -154,7 +154,6 @@ public class Dialogue : MonoBehaviour
         }
          else if((activeSegment is DialogPointSegment))
             {
-                Debug.Log("Gives points  " +  (activeSegment as DialogPointSegment).PositivePoints +  (activeSegment as DialogPointSegment).NegativePoints);
                 npc.Positive += (activeSegment as DialogPointSegment).PositivePoints;
                 npc.Negative += (activeSegment as DialogPointSegment).NegativePoints;
                 if (activeSegment.GetPort("output").IsConnected)
@@ -168,6 +167,30 @@ public class Dialogue : MonoBehaviour
                     EndDialogue();
                 }
             }
+        else if((activeSegment is DialogueUpadateNode))
+        {
+            int temp = npc.Positive - npc.Negative;
+            for(int i = 0; i < (activeSegment as DialogueUpadateNode).lowpoints.Count;i++)
+            {
+                if((activeSegment as DialogueUpadateNode).lowpoints[i] <= temp && temp <= (activeSegment as DialogueUpadateNode).highpoints[i])
+                {
+                    XNode.NodePort port = activeSegment.GetPort("highpoints " + i);
+                    if (port.IsConnected)
+                    {
+                        UpdateDialog(port.Connection.node as DialogSegment);
+                        LineSkip();
+                    }
+
+                    else
+                    {
+                        EndDialogue();
+                    }
+                    break;
+                }
+               
+            }
+        }
+            
         else
         {
              if (activeSegment.GetPort("output").IsConnected)
