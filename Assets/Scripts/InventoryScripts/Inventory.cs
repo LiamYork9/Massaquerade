@@ -2,11 +2,13 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.Events;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class Inventory : MonoBehaviour
+public class Inventory : MonoBehaviour, IDropHandler
 {
     public static Inventory Instance;
     public GameObject inventory;
+    public GameObject outOfInventory;
     public GameObject buttonPrefab;
 
     void Awake()
@@ -41,7 +43,18 @@ public class Inventory : MonoBehaviour
         btn.GetComponentInChildren<ItemHolder>().itemName = item.itemName;
         btn.GetComponentInChildren<ItemHolder>().item = item;
         btn.GetComponentInChildren<Image>().sprite = item.sprite;
-        btn.GetComponentInChildren<Button>().onClick.AddListener((() => { btn.GetComponentInChildren<ItemHolder>().RemoveItem(); }));
+        //btn.GetComponentInChildren<Button>().onClick.AddListener((() => { btn.GetComponentInChildren<ItemHolder>().RemoveItem(); }));
+    }
+
+    public void OnDrop(PointerEventData eventData)
+    {
+        Debug.Log("OnInventoryDrop");
+        if (eventData.pointerDrag != null)
+        {
+            eventData.pointerDrag.GetComponent<RectTransform>().anchoredPosition = GetComponent<RectTransform>().anchoredPosition;
+            eventData.pointerDrag.GetComponent<DragAndDrop>().EnterInventory();
+            eventData.pointerDrag.GetComponent<DragAndDrop>().slot = null;
+        }
     }
 
 }
