@@ -15,6 +15,8 @@ public class NPC : MonoBehaviour
     public DialogGraph likesYou;
 
     public DialogGraph hatesYou;
+
+    public Sprite deathSprite;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

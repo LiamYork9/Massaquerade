@@ -26,6 +26,8 @@ public class DialogueInteraction : MonoBehaviour
 
     
 
+    
+
 
 
     // Start is called before the first frame update

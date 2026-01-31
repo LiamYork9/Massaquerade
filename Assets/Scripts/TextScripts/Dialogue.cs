@@ -247,6 +247,7 @@ public class Dialogue : MonoBehaviour
         //topBox.SetActive(false);
         EndDialogueEvent.Invoke();
         TextBoxManager.Instance.NoTalk = false;
+        TextBoxManager.Instance.lockedTarget = false;
        
         
     }

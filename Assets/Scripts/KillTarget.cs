@@ -17,6 +17,11 @@ public class KillTarget : MonoBehaviour
 
     public void NewTarget()
     {
-        targetPicker.killTarget = this.gameObject;
+        if(TextBoxManager.Instance.lockedTarget == false)
+        {
+             targetPicker.killTarget = this.gameObject;
+             TextBoxManager.Instance.lockedTarget = true;
+        }
     }
+        
 }

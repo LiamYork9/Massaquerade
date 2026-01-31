@@ -39,6 +39,8 @@ public class TextBoxManager : MonoBehaviour
      public GameObject killButton;
 
      public bool NoTalk = false;
+
+     public bool lockedTarget = false;
      
 
 

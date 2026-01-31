@@ -1,11 +1,15 @@
 using UnityEngine;
 using System.Collections.Generic;
-
+using UnityEngine.UI;
 public class TargetPicker : MonoBehaviour
 {
      public List<GameObject> choices;
 
      public GameObject killTarget;
+
+     public GameObject winScreen;
+
+     public Image deathImage;
 
     
     void Start()
@@ -44,6 +48,9 @@ public class TargetPicker : MonoBehaviour
        if(killTarget.GetComponent<NPC>().Target == true)
         {
             Debug.Log("You win");
+            winScreen.SetActive(true);
+            deathImage.sprite  = killTarget.GetComponent<NPC>().deathSprite ;
+
         }
         else
         {
