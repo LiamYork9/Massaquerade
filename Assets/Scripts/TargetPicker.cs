@@ -10,6 +10,8 @@ public class TargetPicker : MonoBehaviour
 
      public GameObject winScreen;
 
+      public GameObject loseScreen;
+
      public Image deathImage;
 
      public List<String> Quirks;
@@ -62,6 +64,8 @@ public class TargetPicker : MonoBehaviour
         else
         {
             Debug.Log("Wrong Guy");
+            loseScreen.SetActive(true);
+            
         }
     }
 }
