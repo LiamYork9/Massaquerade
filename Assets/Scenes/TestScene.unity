@@ -537,6 +537,7 @@ GameObject:
   - component: {fileID: 701944640}
   - component: {fileID: 701944639}
   - component: {fileID: 701944638}
+  - component: {fileID: 701944643}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -603,6 +604,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   dialogText: []
+  npc: {fileID: 701944643}
 --- !u!114 &701944640
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -697,6 +699,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 701944636}
   m_CullTransparentMesh: 1
+--- !u!114 &701944643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 701944636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869c80dc2303c584d8eecb9c58dd8019, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Target: 0
+  Detective: 0
+  Positive: 0
+  Negative: 0
+  text: {fileID: 701944639}
+  likesYou: {fileID: 11400000, guid: 1f5d6a3e57d79b14492f15489e8ca10e, type: 2}
+  hatesYou: {fileID: 11400000, guid: 5dc915c80309fc74387ff50f4bde67b2, type: 2}
 --- !u!1 &1099451429
 GameObject:
   m_ObjectHideFlags: 0
