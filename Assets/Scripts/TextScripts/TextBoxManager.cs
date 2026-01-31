@@ -36,6 +36,8 @@ public class TextBoxManager : MonoBehaviour
 
      public GameObject ObjText;
 
+     public GameObject killButton;
+
      public bool NoTalk = false;
      
 
@@ -60,6 +62,7 @@ public class TextBoxManager : MonoBehaviour
        Instance.DiologueBox.SetActive(false);
        Instance.skip.SetActive(false);
        Instance.nameTextObj.SetActive(false);
+       Instance.killButton.SetActive(false);
     }
 
     // Update is called once per frame
