@@ -33,9 +33,10 @@ public class DialogueInteraction : MonoBehaviour
     {
         
         TextBoxManager.Instance.DiologueBox.SetActive(false);
-        TextBoxManager.Instance.topBox.SetActive(false);
         TextBoxManager.Instance.skip.SetActive(false);
         TextBoxManager.Instance.nameTextObj.SetActive(false);
+         TextBoxManager.Instance.Objportrait.SetActive(false);
+         
     }
  
 
@@ -52,7 +53,7 @@ public class DialogueInteraction : MonoBehaviour
                {
                     
                     TextBoxManager.Instance.DiologueBox.SetActive(true);
-                     TextBoxManager.Instance.topBox.SetActive(true);
+                      TextBoxManager.Instance.Objportrait.SetActive(true);
                      TextBoxManager.Instance.skip.SetActive(true);
                     TextBoxManager.Instance.nameTextObj.SetActive(true);
                     text.StartDiolague();
@@ -82,7 +83,7 @@ public class DialogueInteraction : MonoBehaviour
         if (other.gameObject.CompareTag("Player") && scriptedText == true)
         {
             TextBoxManager.Instance.DiologueBox.SetActive(true);
-             TextBoxManager.Instance.topBox.SetActive(true);
+             
              TextBoxManager.Instance.skip.SetActive(true);
             TextBoxManager.Instance.nameTextObj.SetActive(true);
             text.StartDiolague();
@@ -131,11 +132,15 @@ public class DialogueInteraction : MonoBehaviour
 
     public void StartDialogue()
     {
-        TextBoxManager.Instance.DiologueBox.SetActive(true);
-        TextBoxManager.Instance.topBox.SetActive(true);
-        TextBoxManager.Instance.skip.SetActive(true);
-        TextBoxManager.Instance.nameTextObj.SetActive(true);
-        text.StartDiolague();
+        if(TextBoxManager.Instance.NoTalk == false)
+        {
+            TextBoxManager.Instance.NoTalk = true;
+            TextBoxManager.Instance.DiologueBox.SetActive(true);
+            TextBoxManager.Instance.Objportrait.SetActive(true);
+            TextBoxManager.Instance.skip.SetActive(true);
+            TextBoxManager.Instance.nameTextObj.SetActive(true);
+            text.StartDiolague();
+        }
     }
 
 

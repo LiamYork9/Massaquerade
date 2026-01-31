@@ -81,8 +81,8 @@ public class Dialogue : MonoBehaviour
          TextBoxManager.Instance.portrait.sprite = activeSegment.portrait;
         textActive = true;
         //pc = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
-        TextBoxManager.Instance.textBox.Play("TextBoxAnimation");
-         TextBoxManager.Instance.topBoxAnim.Play("TopBox");
+        TextBoxManager.Instance.textBox.Play("TextboxUp");
+         
          TextBoxManager.Instance.textComponent.text = string.Empty;
         index = 0;
         //pc.inText = true;
@@ -192,15 +192,18 @@ public class Dialogue : MonoBehaviour
         }
         textActive = false;
         //pc.inText = false;
-        TextBoxManager.Instance.textBox.Play("CloseBox");
-        TextBoxManager.Instance.topBoxAnim.Play("CloseTopBox");
+        TextBoxManager.Instance.textBox.Play("TextboxDown");
+       
         //gameObject.SetActive(false);
         TextBoxManager.Instance.skip.SetActive(false);
         TextBoxManager.Instance.nameTextObj.SetActive(false);
+        TextBoxManager.Instance.Objportrait.SetActive(false);
         Time.timeScale = 1.0f;
          TextBoxManager.Instance.textComponent.text = string.Empty;
         //topBox.SetActive(false);
         EndDialogueEvent.Invoke();
+        TextBoxManager.Instance.NoTalk = false;
+       
         
     }
 
