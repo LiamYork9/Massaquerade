@@ -241,11 +241,13 @@ public class Dialogue : MonoBehaviour
         TextBoxManager.Instance.skip.SetActive(false);
         TextBoxManager.Instance.nameTextObj.SetActive(false);
         TextBoxManager.Instance.Objportrait.SetActive(false);
+        TextBoxManager.Instance.killButton.SetActive(false);
         Time.timeScale = 1.0f;
          TextBoxManager.Instance.textComponent.text = string.Empty;
         //topBox.SetActive(false);
         EndDialogueEvent.Invoke();
         TextBoxManager.Instance.NoTalk = false;
+        TextBoxManager.Instance.lockedTarget = false;
        
         
     }

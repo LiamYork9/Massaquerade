@@ -26,6 +26,8 @@ public class DialogueInteraction : MonoBehaviour
 
     
 
+    
+
 
 
     // Start is called before the first frame update
@@ -35,7 +37,8 @@ public class DialogueInteraction : MonoBehaviour
         TextBoxManager.Instance.DiologueBox.SetActive(false);
         TextBoxManager.Instance.skip.SetActive(false);
         TextBoxManager.Instance.nameTextObj.SetActive(false);
-         TextBoxManager.Instance.Objportrait.SetActive(false);
+        TextBoxManager.Instance.Objportrait.SetActive(false);
+        TextBoxManager.Instance.killButton.SetActive(false);
          
     }
  
@@ -53,9 +56,10 @@ public class DialogueInteraction : MonoBehaviour
                {
                     
                     TextBoxManager.Instance.DiologueBox.SetActive(true);
-                      TextBoxManager.Instance.Objportrait.SetActive(true);
-                     TextBoxManager.Instance.skip.SetActive(true);
+                    TextBoxManager.Instance.Objportrait.SetActive(true);
+                    TextBoxManager.Instance.skip.SetActive(true);
                     TextBoxManager.Instance.nameTextObj.SetActive(true);
+                    TextBoxManager.Instance.killButton.SetActive(true);
                     text.StartDiolague();
                     
 
@@ -139,6 +143,7 @@ public class DialogueInteraction : MonoBehaviour
             TextBoxManager.Instance.Objportrait.SetActive(true);
             TextBoxManager.Instance.skip.SetActive(true);
             TextBoxManager.Instance.nameTextObj.SetActive(true);
+            TextBoxManager.Instance.killButton.SetActive(true);
             text.StartDiolague();
         }
     }
