@@ -23,17 +23,20 @@ public class TextBoxManager : MonoBehaviour
 
     public Transform buttonParent;
 
-     public GameObject topBox;
-
     public Animator textBox;
 
-    public Animator topBoxAnim;
 
     public GameObject skip;
 
     public GameObject nameTextObj;
 
      public GameObject DiologueBox;
+
+     public GameObject Objportrait;
+
+     public GameObject ObjText;
+
+     public bool NoTalk = false;
      
 
 
@@ -55,7 +58,6 @@ public class TextBoxManager : MonoBehaviour
     {
         
        Instance.DiologueBox.SetActive(false);
-       Instance.topBox.SetActive(false);
        Instance.skip.SetActive(false);
        Instance.nameTextObj.SetActive(false);
     }

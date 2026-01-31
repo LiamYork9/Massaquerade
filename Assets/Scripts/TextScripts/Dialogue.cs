@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.Events;
 using UnityEngine.UI;
+using UnityEditor.Experimental.GraphView;
 
 public class Dialogue : MonoBehaviour
 {
@@ -25,7 +26,7 @@ public class Dialogue : MonoBehaviour
 
      public string[] dialogText;
 
-
+    public NPC npc;
     void Start()
     {
         if (EndDialogueEvent == null)
@@ -81,8 +82,8 @@ public class Dialogue : MonoBehaviour
          TextBoxManager.Instance.portrait.sprite = activeSegment.portrait;
         textActive = true;
         //pc = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
-        TextBoxManager.Instance.textBox.Play("TextBoxAnimation");
-         TextBoxManager.Instance.topBoxAnim.Play("TopBox");
+        TextBoxManager.Instance.textBox.Play("TextboxUp");
+         
          TextBoxManager.Instance.textComponent.text = string.Empty;
         index = 0;
         //pc.inText = true;
@@ -112,21 +113,8 @@ public class Dialogue : MonoBehaviour
 
     public void NextNode()
     {
-        if(!(activeSegment is DialogAnswerSegments)){
+        if(activeSegment is DialogAnswerSegments){
         
-            if (activeSegment.GetPort("output").IsConnected)
-            {
-                UpdateDialog(activeSegment.GetPort("output").Connection.node as DialogSegment);
-                  TextBoxManager.Instance.textComponent.text = string.Empty;
-                 StartCoroutine(TypeLine());
-            }
-            else
-            {
-                EndDialogue();
-            }
-        }
-        else
-        {
             if((activeSegment as DialogAnswerSegments).Answers.Count > 0)
             {
                  int answerIndex = 0;
@@ -148,6 +136,7 @@ public class Dialogue : MonoBehaviour
                     answerIndex++;
                 }
             }
+           
             else
             {
                 if (activeSegment.GetPort("output").IsConnected)
@@ -161,6 +150,60 @@ public class Dialogue : MonoBehaviour
                     EndDialogue();
                 }
             }
+           
+        }
+         else if((activeSegment is DialogPointSegment))
+            {
+                npc.Positive += (activeSegment as DialogPointSegment).PositivePoints;
+                npc.Negative += (activeSegment as DialogPointSegment).NegativePoints;
+                if (activeSegment.GetPort("output").IsConnected)
+                {
+                    UpdateDialog(activeSegment.GetPort("output").Connection.node as DialogSegment);
+                     TextBoxManager.Instance.textComponent.text = string.Empty;
+                    StartCoroutine(TypeLine());
+                }
+                else
+                {
+                    EndDialogue();
+                }
+            }
+        else if((activeSegment is DialogueUpadateNode))
+        {
+            int temp = npc.Positive - npc.Negative;
+            for(int i = 0; i < (activeSegment as DialogueUpadateNode).lowpoints.Count;i++)
+            {
+                if((activeSegment as DialogueUpadateNode).lowpoints[i] <= temp && temp <= (activeSegment as DialogueUpadateNode).highpoints[i])
+                {
+                    XNode.NodePort port = activeSegment.GetPort("highpoints " + i);
+                    if (port.IsConnected)
+                    {
+                        UpdateDialog(port.Connection.node as DialogSegment);
+                        LineSkip();
+                    }
+
+                    else
+                    {
+                        EndDialogue();
+                    }
+                    break;
+                }
+               
+            }
+        }
+            
+        else
+        {
+             if (activeSegment.GetPort("output").IsConnected)
+            {
+                UpdateDialog(activeSegment.GetPort("output").Connection.node as DialogSegment);
+                  TextBoxManager.Instance.textComponent.text = string.Empty;
+                 StartCoroutine(TypeLine());
+            }
+            else
+            {
+                EndDialogue();
+            }
+           
         }
            
         
@@ -192,15 +235,18 @@ public class Dialogue : MonoBehaviour
         }
         textActive = false;
         //pc.inText = false;
-        TextBoxManager.Instance.textBox.Play("CloseBox");
-        TextBoxManager.Instance.topBoxAnim.Play("CloseTopBox");
+        TextBoxManager.Instance.textBox.Play("TextboxDown");
+       
         //gameObject.SetActive(false);
         TextBoxManager.Instance.skip.SetActive(false);
         TextBoxManager.Instance.nameTextObj.SetActive(false);
+        TextBoxManager.Instance.Objportrait.SetActive(false);
         Time.timeScale = 1.0f;
          TextBoxManager.Instance.textComponent.text = string.Empty;
         //topBox.SetActive(false);
         EndDialogueEvent.Invoke();
+        TextBoxManager.Instance.NoTalk = false;
+       
         
     }
 
@@ -215,7 +261,7 @@ public class Dialogue : MonoBehaviour
             {
                 Destroy(child.gameObject);
             }
-
+          
         }
 
 }
