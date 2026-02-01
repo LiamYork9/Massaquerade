@@ -21,6 +21,8 @@ public class PanelNavigation : MonoBehaviour
     {
         currentPanel = null;
         nextPanel = null;
+        panel3.SetActive(false);
+        panel2.SetActive(false);
     }
     public void Fade(){
         animator.SetTrigger("fade");

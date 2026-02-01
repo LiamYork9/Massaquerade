@@ -1611,7 +1611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameIsPaused: 0
   pauseMenuUI: {fileID: 1301980231}
-  sceneName: CooperTestScene
+  sceneName: GameScene
 --- !u!114 &1694281098
 MonoBehaviour:
   m_ObjectHideFlags: 0

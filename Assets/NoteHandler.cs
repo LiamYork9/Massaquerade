@@ -16,15 +16,17 @@ public class NoteHandler : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        likes.text = "Likes: "+ targetPicker.theTarget.GetComponent<NPC>().Likes[0];
+        dislikes.text = "Dislikes: "+ targetPicker.theTarget.GetComponent<NPC>().Dislikes[0];
+        quirk.text = "Quirk: "+ targetPicker.theTarget.GetComponent<NPC>().Quirks[0];
     }
 
     // Update is called once per frame
     void Update()
     {
-        likes.text = "Likes: "+ targetPicker.theTarget.GetComponent<NPC>().Likes[0];
-        dislikes.text = "Dislikes: "+ targetPicker.theTarget.GetComponent<NPC>().Dislikes[0];
-        quirk.text = "Quirk: "+ targetPicker.theTarget.GetComponent<NPC>().Quirks[0];
+        //  likes.text = "Likes: "+ targetPicker.theTarget.GetComponent<NPC>().Likes[0];
+        //  dislikes.text = "Dislikes: "+ targetPicker.theTarget.GetComponent<NPC>().Dislikes[0];
+        //  quirk.text = "Quirk: "+ targetPicker.theTarget.GetComponent<NPC>().Quirks[0];
     }
 
     public void TurnThisOff()
