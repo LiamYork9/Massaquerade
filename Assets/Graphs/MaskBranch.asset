@@ -24,8 +24,8 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 4
-        node: {fileID: 1490066367918455482}
+      - fieldName: quirk 4
+        node: {fileID: -4121874349941523896}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -116,8 +116,8 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 2
-        node: {fileID: 1490066367918455482}
+      - fieldName: quirk 2
+        node: {fileID: -4121874349941523896}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -162,8 +162,8 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 0
-        node: {fileID: 1490066367918455482}
+      - fieldName: quirk 0
+        node: {fileID: -4121874349941523896}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -231,6 +231,138 @@ MonoBehaviour:
   DialogText:
   - Correct!!!
   textSpeed: 0
+--- !u!114 &-4121874349941523896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b9af8e34b0ffa947920ad4ed29606ec, type: 3}
+  m_Name: Quirks
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -360, y: -296}
+  ports:
+    keys:
+    - quirk
+    - input
+    - output
+    - quirk 0
+    - quirk 1
+    - quirk 2
+    - quirk 3
+    - quirk 4
+    - quirk 5
+    values:
+    - _fieldName: quirk
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: System.Collections.Generic.List`1[[Quirk, Assembly-CSharp,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0,
+        Culture=neutral, PublicKeyToken=b77a5c561934e089
+      connections: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: input
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: output
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: quirk 0
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Quirk, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: -4454211203269054295}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: quirk 1
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Quirk, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: 7086902540803409015}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: quirk 2
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Quirk, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: -4527491700293685945}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: quirk 3
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Quirk, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: 4592237997152756134}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: quirk 4
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Quirk, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: -7372308496035496869}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: quirk 5
+      _node: {fileID: -4121874349941523896}
+      _typeQualifiedName: Quirk, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: 8989323248410362445}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 1
+  portrait: {fileID: 0}
+  speakerName: 
+  DialogText:
+  - Testing testing
+  textSpeed: 0
+  quirk: 000000000100000002000000030000000400000005000000
 --- !u!114 &-1345596954964642666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -383,7 +515,6 @@ MonoBehaviour:
   m_Name: MaskBranch
   m_EditorClassIdentifier: 
   nodes:
-  - {fileID: 1490066367918455482}
   - {fileID: -4454211203269054295}
   - {fileID: -7372308496035496869}
   - {fileID: -4527491700293685945}
@@ -395,138 +526,7 @@ MonoBehaviour:
   - {fileID: -810065614236845364}
   - {fileID: -798916692837811601}
   - {fileID: -1345596954964642666}
---- !u!114 &1490066367918455482
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6686a29e39af50e45afe6ea754519c31, type: 3}
-  m_Name: Dialog Mask Segment
-  m_EditorClassIdentifier: 
-  graph: {fileID: 11400000}
-  position: {x: -312, y: -168}
-  ports:
-    keys:
-    - Masks
-    - input
-    - output
-    - Masks 0
-    - Masks 1
-    - Masks 2
-    - Masks 3
-    - Masks 4
-    - Masks 5
-    values:
-    - _fieldName: Masks
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: System.Collections.Generic.List`1[[Mask, Assembly-CSharp,
-        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0,
-        Culture=neutral, PublicKeyToken=b77a5c561934e089
-      connections: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: input
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections: []
-      _direction: 0
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: output
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 0
-    - _fieldName: Masks 0
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Mask, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections:
-      - fieldName: input
-        node: {fileID: -4454211203269054295}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 1
-    - _fieldName: Masks 1
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Mask, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections:
-      - fieldName: input
-        node: {fileID: 7086902540803409015}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 1
-    - _fieldName: Masks 2
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Mask, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections:
-      - fieldName: input
-        node: {fileID: -4527491700293685945}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 1
-    - _fieldName: Masks 3
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Mask, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections:
-      - fieldName: input
-        node: {fileID: 4592237997152756134}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 1
-    - _fieldName: Masks 4
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Mask, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections:
-      - fieldName: input
-        node: {fileID: -7372308496035496869}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 1
-    - _fieldName: Masks 5
-      _node: {fileID: 1490066367918455482}
-      _typeQualifiedName: Mask, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
-        PublicKeyToken=null
-      connections:
-      - fieldName: input
-        node: {fileID: 8989323248410362445}
-        reroutePoints: []
-      _direction: 1
-      _connectionType: 0
-      _typeConstraint: 0
-      _dynamic: 1
-  portrait: {fileID: 0}
-  speakerName: Mask
-  DialogText:
-  - It's Mask Time
-  textSpeed: 0
-  Masks: 000000000100000002000000030000000400000005000000
+  - {fileID: -4121874349941523896}
 --- !u!114 &4592237997152756134
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -551,8 +551,8 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 3
-        node: {fileID: 1490066367918455482}
+      - fieldName: quirk 3
+        node: {fileID: -4121874349941523896}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -597,8 +597,8 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 1
-        node: {fileID: 1490066367918455482}
+      - fieldName: quirk 1
+        node: {fileID: -4121874349941523896}
         reroutePoints: []
       _direction: 0
       _connectionType: 0
@@ -658,8 +658,8 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 5
-        node: {fileID: 1490066367918455482}
+      - fieldName: quirk 5
+        node: {fileID: -4121874349941523896}
         reroutePoints: []
       _direction: 0
       _connectionType: 0

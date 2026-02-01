@@ -26,7 +26,7 @@ public class NPC : MonoBehaviour, IDropHandler
 
     public Sprite deathSprite;
 
-    public List<String> Quirks = new List<string>();
+    public Quirk quirk;
 
     public List<String> Likes;
 
@@ -44,13 +44,12 @@ public class NPC : MonoBehaviour, IDropHandler
     
     void OnEnable()
     {
-         if ( Quirks.Count <= 0)
-        {
-           String randomQuirk = GetRandomObject(targetPicker.Quirks);
-           Quirks.Add(randomQuirk);
+         
+        quirk = (Quirk)UnityEngine.Random.Range(0,6);
+           
           
           
-        }
+        
          if ( Likes.Count <= 0)
         {
            String randomLikes = GetRandomObject(targetPicker.DislikesLikes);
@@ -94,11 +93,12 @@ public class NPC : MonoBehaviour, IDropHandler
     {
             dialogue.lines = giftGraph;
             dialogueInteraction.StartDialogue();
-            (dialogue.activeSegment as LikesAndDislikesNode).GetInputValue("Ask", contents.GetComponent<ItemHolder>().itemName );
+            contents = eventData.pointerDrag;
+            (dialogue.activeSegment as LikesAndDislikesNode).Ask = contents.GetComponent<ItemHolder>().itemName;
             Debug.Log(contents.GetComponent<ItemHolder>().itemName);
           
         
-            dialogueInteraction.StartDialogue();
+          
         
     }
 }

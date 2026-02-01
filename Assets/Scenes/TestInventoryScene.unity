@@ -1143,6 +1143,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 121845729}
     - target: {fileID: 6297647098544478405, guid: b1105d2306f04254e9ca4ad19e612e3b, type: 3}
+      propertyPath: Likes.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6297647098544478405, guid: b1105d2306f04254e9ca4ad19e612e3b, type: 3}
+      propertyPath: 'Likes.Array.data[0]'
+      value: Ball
+      objectReference: {fileID: 0}
+    - target: {fileID: 6297647098544478405, guid: b1105d2306f04254e9ca4ad19e612e3b, type: 3}
       propertyPath: dialogueInteraction
       value: 
       objectReference: {fileID: 863993741}

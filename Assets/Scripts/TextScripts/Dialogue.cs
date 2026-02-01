@@ -9,6 +9,7 @@ using UnityEngine.UI;
 public class Dialogue : MonoBehaviour
 {
   
+    public DialogGraph orginalGraph;
 
     public DialogGraph lines;
 
@@ -232,13 +233,13 @@ public class Dialogue : MonoBehaviour
         else if(activeSegment is LikesAndDislikesNode)
         {
             Debug.Log((activeSegment as LikesAndDislikesNode).GetValue((activeSegment as LikesAndDislikesNode).GetPort("Ask")));
-            if(npc.Likes.Contains((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  "none")))
+            if(npc.Likes.Contains((activeSegment as LikesAndDislikesNode).GetInputValue("Ask", (activeSegment as LikesAndDislikesNode).Ask)))
             {
                 UpdateDialog(activeSegment.GetPort("Opinion 0").Connection.node as DialogSegment);
                 TextBoxManager.Instance.textComponent.text = string.Empty;
                 StartCoroutine(TypeLine());
             }
-            else if(npc.Dislikes.Contains((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  "none")))
+            else if(npc.Dislikes.Contains((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  (activeSegment as LikesAndDislikesNode).Ask)))
             {
                 UpdateDialog(activeSegment.GetPort("Opinion 2").Connection.node as DialogSegment);
                 TextBoxManager.Instance.textComponent.text = string.Empty;
@@ -258,6 +259,19 @@ public class Dialogue : MonoBehaviour
                 if(Player.Instance.mask == (activeSegment as DialogMaskSegment).Masks[i])
                 {
                     UpdateDialog(activeSegment.GetPort("Masks " + i).Connection.node as DialogSegment);
+                    TextBoxManager.Instance.textComponent.text = string.Empty;
+                    StartCoroutine(TypeLine());
+                    break;
+                }
+            }
+        }
+        else if(activeSegment is Quirks)
+        {
+            for(int i = 0; i<(activeSegment as Quirks).quirk.Count; i++)
+            {
+                if(npc.quirk == (activeSegment as Quirks).quirk[i])
+                {
+                    UpdateDialog(activeSegment.GetPort("quirk " + i).Connection.node as DialogSegment);
                     TextBoxManager.Instance.textComponent.text = string.Empty;
                     StartCoroutine(TypeLine());
                     break;
@@ -333,6 +347,7 @@ public class Dialogue : MonoBehaviour
         TextBoxManager.Instance.killButton.SetActive(false);
         Time.timeScale = 1.0f;
          TextBoxManager.Instance.textComponent.text = string.Empty;
+         lines = orginalGraph;
         //topBox.SetActive(false);
         EndDialogueEvent.Invoke();
         TextBoxManager.Instance.NoTalk = false;

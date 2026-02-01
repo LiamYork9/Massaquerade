@@ -14,7 +14,6 @@ public class TargetPicker : MonoBehaviour
 
      public Image deathImage;
 
-     public List<String> Quirks;
 
     public List<String> DislikesLikes;
 

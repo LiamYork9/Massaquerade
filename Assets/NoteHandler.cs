@@ -18,7 +18,7 @@ public class NoteHandler : MonoBehaviour
     {
         likes.text = "Likes: "+ targetPicker.theTarget.GetComponent<NPC>().Likes[0];
         dislikes.text = "Dislikes: "+ targetPicker.theTarget.GetComponent<NPC>().Dislikes[0];
-        quirk.text = "Quirk: "+ targetPicker.theTarget.GetComponent<NPC>().Quirks[0];
+        quirk.text = "Quirk: "+ targetPicker.theTarget.GetComponent<NPC>().quirk;
     }
 
     // Update is called once per frame

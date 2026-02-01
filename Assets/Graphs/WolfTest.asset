@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Likes And Dislikes
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: -520, y: -216}
+  position: {x: -776, y: -248}
   ports:
     keys:
     - Ask
@@ -102,7 +102,7 @@ MonoBehaviour:
   DialogText:
   - 'Testing 1 '
   textSpeed: 0
-  Ask: 
+  Ask: Ball
   Opinion:
   - Likes
   - Neutral
