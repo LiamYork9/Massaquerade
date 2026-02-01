@@ -8,6 +8,8 @@ public class NPC : MonoBehaviour
 
     public bool Detective = false;
 
+    public int activeScene = 0;
+
     public int Positive = 0;
 
     public int Negative = 0;
