@@ -31,23 +31,29 @@ public class PanelNavigation : MonoBehaviour
     }
 
     public void Panel1(){
+         if(TextBoxManager.Instance.lockedTarget == false){
         currentPanel = nextPanel;
         nextPanel = panel1;
         Fade();
         targetScene = 1;
+         }
     }
     public void Panel2(){
+         if(TextBoxManager.Instance.lockedTarget == false){
         currentPanel = nextPanel;
         nextPanel = panel2;
         Fade();
         targetScene = 2;
+         }
     }
     public void Panel3(){
+         if(TextBoxManager.Instance.lockedTarget == false){
         currentPanel = nextPanel;
         nextPanel = panel3;
         Fade();
         targetScene = 3;
         Debug.Log("pressed");
+         }
     }
     public void Transition(){
         currentPanel.SetActive(false);

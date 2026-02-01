@@ -43,7 +43,7 @@ public class Player : MonoBehaviour
     {
          if (Input.GetKeyDown(KeyCode.I))
         {
-            if(panIsOn == false)
+            if(panIsOn == false )
             {
                 TurnOnIn();
             }
@@ -51,6 +51,11 @@ public class Player : MonoBehaviour
             {
                 TurnOffIn();
             }
+        }
+
+        if(TextBoxManager.Instance.lockedTarget == true)
+        {
+            invenPan.SetActive(false);
         }
        
       
