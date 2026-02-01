@@ -29,6 +29,21 @@ public class randomNPC : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+            Wolf.SetActive(false);
+            Cat.SetActive(false);
+            Peacock.SetActive(false);
+            Hornet.SetActive(false);
+            Bunny.SetActive(false);
+            Wolf2.SetActive(false);
+            Cat2.SetActive(false);
+            Peacock2.SetActive(false);
+            Hornet2.SetActive(false);
+            Bunny2.SetActive(false);
+            Wolf3.SetActive(false);
+            Cat3.SetActive(false);
+            Peacock3.SetActive(false);
+            Hornet3.SetActive(false);
+            Bunny3.SetActive(false);
         number = Random.Range(1, 10);
         if (number == 1)
         {
