@@ -190,7 +190,28 @@ public class Dialogue : MonoBehaviour
                
             }
         }
-            
+        else if(activeSegment is LikesAndDislikesNode)
+        {
+            Debug.Log((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  "none"));
+            if(npc.Likes.Contains((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  "none")))
+            {
+                UpdateDialog(activeSegment.GetPort("Opinion 0").Connection.node as DialogSegment);
+                TextBoxManager.Instance.textComponent.text = string.Empty;
+                StartCoroutine(TypeLine());
+            }
+            else if(npc.Dislikes.Contains((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  "none")))
+            {
+                UpdateDialog(activeSegment.GetPort("Opinion 2").Connection.node as DialogSegment);
+                TextBoxManager.Instance.textComponent.text = string.Empty;
+                StartCoroutine(TypeLine());
+            }
+            else
+            {
+                UpdateDialog(activeSegment.GetPort("Opinion 1").Connection.node as DialogSegment);
+                TextBoxManager.Instance.textComponent.text = string.Empty;
+                StartCoroutine(TypeLine());
+            }
+        }
         else
         {
              if (activeSegment.GetPort("output").IsConnected)
