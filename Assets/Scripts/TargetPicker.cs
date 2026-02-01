@@ -21,7 +21,7 @@ public class TargetPicker : MonoBehaviour
     public GameObject theTarget;
 
     
-    void Start()
+    void OnEnable()
     {
         
 

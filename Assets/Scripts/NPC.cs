@@ -28,7 +28,7 @@ public class NPC : MonoBehaviour
 
     public TargetPicker targetPicker;
     
-    void Start()
+    void OnEnable()
     {
          if ( Quirks.Count <= 0)
         {
@@ -52,6 +52,7 @@ public class NPC : MonoBehaviour
           
         }
     }
+    
 
     // Update is called once per frame
     void Update()
