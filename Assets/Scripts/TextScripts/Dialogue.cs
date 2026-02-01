@@ -251,6 +251,11 @@ public class Dialogue : MonoBehaviour
                 StartCoroutine(TypeLine());
             }
         }
+        else if(activeSegment is DialogMaskSegment)
+        {
+            Debug.Log((activeSegment as DialogMaskSegment).GetValue((activeSegment as DialogMaskSegment).GetPort("Ask")));
+            for(int i = 0; i<(activeSegment as DialogMaskSegment))
+        }
         else
         {
              if (activeSegment.GetPort("output").IsConnected)
