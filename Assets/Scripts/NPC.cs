@@ -93,6 +93,7 @@ public class NPC : MonoBehaviour, IDropHandler
     public void OnDrop(PointerEventData eventData)
     {
             dialogue.lines = giftGraph;
+            dialogueInteraction.StartDialogue();
             (dialogue.activeSegment as LikesAndDislikesNode).GetInputValue("Ask", contents.GetComponent<ItemHolder>().itemName );
             Debug.Log(contents.GetComponent<ItemHolder>().itemName);
           
