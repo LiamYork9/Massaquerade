@@ -43,7 +43,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Oh, Uh, no! Anime is lame, and, uh, for nerds. '
   textSpeed: 0
 --- !u!114 &-9088847583587754493
 MonoBehaviour:
@@ -88,7 +88,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "*ACHOO* Uh, yeah, I guess? It\u2019s alright. Wait, I thought you said you were
+    allergic to fish? "
   textSpeed: 0
 --- !u!114 &-9079416763010174448
 MonoBehaviour:
@@ -133,7 +134,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Uh, yeah they are. They look really good too. I wouldn\u2019t have been able
+    to try them if I had stayed home. "
   textSpeed: 0
 --- !u!114 &-9019408469898224235
 MonoBehaviour:
@@ -291,7 +293,10 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, no. I don\u2019t get why anyone enjoys walking an uneven path and getting
+    sweaty, and bit by bugs, and you have to carry any food or water you wanna bring,
+    and then you have to drive home tired and sticky and itchy and just a-a-a-ACHOO!
+    Eugh, yeah, kinda like that. "
   textSpeed: 0
 --- !u!114 &-8956519978870286939
 MonoBehaviour:
@@ -336,7 +341,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah it's super cool, reminds me of\u2026 never mind. "
   textSpeed: 0
 --- !u!114 &-8879183218866349575
 MonoBehaviour:
@@ -426,7 +431,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Oh yeah, I really like rock and metal. I guess I like super punchy and high
+    energy '
   textSpeed: 0
 --- !u!114 &-8849361155279682880
 MonoBehaviour:
@@ -471,7 +477,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, no, not really. It\u2019s always either nasty or bland, and the texture
+    is just weird. Wait, didn\u2019t you say you were allergic to fish earlier? "
   textSpeed: 0
 --- !u!114 &-8786886226332287931
 MonoBehaviour:
@@ -516,7 +523,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Huh? Oh yeah, same. I used to think I hated drama, but I realized I really like
+    drama when it doesn\u2019t involve someone I know. "
   textSpeed: 0
 --- !u!114 &-8700366523972896666
 MonoBehaviour:
@@ -606,7 +614,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, I think it\u2019s giving me a headache. "
   textSpeed: 0
 --- !u!114 &-8647359648845683576
 MonoBehaviour:
@@ -711,10 +719,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -764,7 +772,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Eugh, it tastes off to me. *ACHOO* Eugh, but maybe I can\u2019t taste it right
+    with this funk. "
   textSpeed: 0
 --- !u!114 &-8567760879151795062
 MonoBehaviour:
@@ -809,7 +818,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Ugh, that stuff is not for me. taste nasty '
   textSpeed: 0
 --- !u!114 &-8523036033964570064
 MonoBehaviour:
@@ -854,7 +863,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Not really, I think it\u2019s messing with my allergies. *ACHOOO* "
   textSpeed: 0
 --- !u!114 &-8519213051415101004
 MonoBehaviour:
@@ -899,7 +908,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah! Most people assume I don\u2019t, but I actually really like watching
+    sports. Although the teams I root for usually lose, but it's still fun. And they\u2019ll
+    get far this season, I swear! "
   textSpeed: 0
 --- !u!114 &-8519074524206508607
 MonoBehaviour:
@@ -944,7 +955,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, kinda I guess? I don\u2019t mind it. I don\u2019t really find it all relaxing,
+    but I also don't really mind it. With a day like this, it doesn\u2019t sound
+    too great though. "
   textSpeed: 0
 --- !u!114 &-8508790093346796345
 MonoBehaviour:
@@ -1034,7 +1047,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, no. I don\u2019t watch sportsball. But you don\u2019t really seem like
+    the type either."
   textSpeed: 0
 --- !u!114 &-8355532701508739336
 MonoBehaviour:
@@ -1139,10 +1153,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -1192,7 +1206,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, no. I don\u2019t get sports. It\u2019s a lot of watching people knock a
+    ball back and forth in a field until one team hits it past the other. And a lot
+    of people talk like they\u2019re a part of the team, I just don't get it. "
   textSpeed: 0
 --- !u!114 &-8316142665668034996
 MonoBehaviour:
@@ -1297,10 +1313,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -1440,7 +1456,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Huh? Oh\u2026 *yawn* kinda? I don\u2019t seek it out, but if it happens to be
+    on then I\u2019ll watch it, sure. "
   textSpeed: 0
 --- !u!114 &-8126062204948202362
 MonoBehaviour:
@@ -1575,7 +1592,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Huh? Oh kinda? I don\u2019t seek it out, but if it happens to be on then I\u2019ll
+    watch it, sure.  "
   textSpeed: 0
 --- !u!114 &-8048403954288964066
 MonoBehaviour:
@@ -1799,7 +1817,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-7814527915302154002
@@ -1845,7 +1863,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "I actually do. It\u2019s nice. It\u2019s really relaxing, being out in nature,
+    away from roads and buildings and crowds. I do stick to pretty popular paths
+    though.  "
   textSpeed: 0
 --- !u!114 &-7748041369268045402
 MonoBehaviour:
@@ -2160,7 +2180,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Oh yeah! I really like Hunter x Hunter, Fullmetal Alchemist, Yuyu Hakusho,
+    The Rising of the Shield Hero, That Time I got Reincarnated as a Slime- *He continues
+    to list off more anime titles as you stop listening* '
   textSpeed: 0
 --- !u!114 &-7452311846567632509
 MonoBehaviour:
@@ -2205,7 +2227,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Ugh, I can\u2019t stand drama. It always makes me feel second-hand embarrassment,
+    and it\u2019s always so trashy, and the hosts are suck jerks. "
   textSpeed: 0
 --- !u!114 &-7424010303834393413
 MonoBehaviour:
@@ -2471,7 +2494,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah, I really like fish. It\u2019s delicious, and it\u2019s pretty good
+    for you. But uh, didn\u2019t you say you're allergic to fish earlier? "
   textSpeed: 0
 --- !u!114 &-7331247012855762701
 MonoBehaviour:
@@ -2572,15 +2596,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - ' (Looks like the ball is in my court. What should I talk about?)'
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Reality TV
+  - Reading
+  - Sports
 --- !u!114 &-7327915505968536490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2624,7 +2648,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, I mean I guess?  '
   textSpeed: 0
 --- !u!114 &-7327548667189241292
 MonoBehaviour:
@@ -2774,10 +2798,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Those macarons they have are so cuuute! Such pretty colors too! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -2827,7 +2851,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, it\u2019s nice. Good weather for a walk. "
   textSpeed: 0
 --- !u!114 &-7278132376704691675
 MonoBehaviour:
@@ -2872,7 +2896,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Ah. Yeah, I don''t read a lot of books. I think most of my reading is Manga
+    at this point.  '
   textSpeed: 0
 --- !u!114 &-7209501583572686807
 MonoBehaviour:
@@ -2977,10 +3002,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3030,7 +3056,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah, I *yawn* really like rock and metal. I guess I like super punchy and
+    *yaaawn* high energy stuff, y\u2019know? "
   textSpeed: 0
 --- !u!114 &-7094066629698905029
 MonoBehaviour:
@@ -3075,7 +3102,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, kinda? I don\u2019t really root for any specific team, but I\u2019ve watched
+    a game before.! "
   textSpeed: 0
 --- !u!114 &-7055434531538779722
 MonoBehaviour:
@@ -3165,7 +3193,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Mhmm, it\u2019s really good. I wonder what all they used? I want to see if I
+    can find what they did, I might be able to make more at home. "
   textSpeed: 0
 --- !u!114 &-7046536970609509946
 MonoBehaviour:
@@ -3210,7 +3239,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah, he killed it! Man, I\u2019m so glad I was able to hear that. I mean,
+    good Jazz is something special huh? "
   textSpeed: 0
 --- !u!114 &-7046151062787984989
 MonoBehaviour:
@@ -3458,7 +3488,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, I can\u2019t stand drama. And it always makes me feel second-hand embarrassment,
+    its just\u2026 *yawn* ugh, I\u2019d rather just sleep. "
   textSpeed: 0
 --- !u!114 &-6710387706706043099
 MonoBehaviour:
@@ -3548,7 +3579,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, I guess? I don\u2019t really root for any specific team, but I\u2019ve watched
+    a game before. "
   textSpeed: 0
 --- !u!114 &-6617428976822699203
 MonoBehaviour:
@@ -3653,10 +3685,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - ' Those macarons they have are so cuuute! Such pretty colors too! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3706,7 +3738,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Oh yeah, he killed it! Man, Jazz really does just take you somewhere else,
+    you know what I mean? '
   textSpeed: 0
 --- !u!114 &-6597037909524162725
 MonoBehaviour:
@@ -3751,7 +3784,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, it\u2019s nice. Good weather for a walk. "
   textSpeed: 0
 --- !u!114 &-6431527729911167006
 MonoBehaviour:
@@ -3852,15 +3885,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &-6429186416931809676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3964,10 +3997,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4122,10 +4155,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4389,15 +4422,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &-6146410616686268025
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4441,7 +4474,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Ugh, no. I don\u2019t waste my time watching sportsball. But you don't really
+    seem like the type either. "
   textSpeed: 0
 --- !u!114 &-5685944023384104025
 MonoBehaviour:
@@ -4644,7 +4678,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " I don\u2019t really get it. Sounded kinda messy, he was kinda all over the
+    place. I want to go somewhere quiet to lie down now. "
   textSpeed: 0
 --- !u!114 &-5629470776936994063
 MonoBehaviour:
@@ -4821,7 +4856,7 @@ MonoBehaviour:
       _typeConstraint: 0
       _dynamic: 1
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  speakerName: (...)
   DialogText:
   - ' '
   textSpeed: 0
@@ -4869,7 +4904,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " It\u2019s pretty good, not my favorite though *sniff* "
   textSpeed: 0
 --- !u!114 &-5263447293738366649
 MonoBehaviour:
@@ -5087,10 +5122,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock n Roll in my circles than this classic stuff. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5248,7 +5283,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, that stuff is not for me. Could\u2019ve had something better at home. "
   textSpeed: 0
 --- !u!114 &-5173630008811372726
 MonoBehaviour:
@@ -5293,7 +5328,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, I guess? I don't really get Jazz, but it wasn\u2019t bad. "
   textSpeed: 0
 --- !u!114 &-5099756358701589509
 MonoBehaviour:
@@ -5398,10 +5433,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - ' This punch is lovely. The flavors mix together quite excellently. '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5451,7 +5486,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Uh, no. I don\u2019t get sports. It\u2019s a lot of watching people knock a
+    ball back and forth in a field until one team hits it past the other. And a lot
+    of people talk like they\u2019re a part of the team, I just don't get it. "
   textSpeed: 0
 --- !u!114 &-5086137963969695767
 MonoBehaviour:
@@ -5714,10 +5751,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5767,7 +5804,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Yeah, this stuff is surprisingly good. '
   textSpeed: 0
 --- !u!114 &-4991705789560085662
 MonoBehaviour:
@@ -5812,7 +5849,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - Uh, I see it yeah. They taste good too.
   textSpeed: 0
 --- !u!114 &-4985739762559061814
 MonoBehaviour:
@@ -6007,10 +6044,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Those macarons they have are so cuuute! Such pretty colors too! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -6116,15 +6153,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &-4767333716405773253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6213,7 +6250,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " It\u2019s pretty good, not my favorite though *yawn* "
   textSpeed: 0
 --- !u!114 &-4603166298323268477
 MonoBehaviour:
@@ -6318,10 +6355,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -6371,7 +6408,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Oh yeah, same. I used to think I hated drama, but I realized I really like
+    drama when it doesn\u2019t involve someone I know. Though I guess tonight is
+    putting that idea to test. "
   textSpeed: 0
 --- !u!114 &-4565587771099746205
 MonoBehaviour:
@@ -6461,7 +6500,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, it\u2019s really nice actually. Didn\u2019t realize I liked classical. "
   textSpeed: 0
 --- !u!114 &-4485958854748188733
 MonoBehaviour:
@@ -6506,7 +6545,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " I actually really enjoy reading. I mostly read fantasy books though, so you
+    probably haven\u2019t heard of them. "
   textSpeed: 0
 --- !u!114 &-4378238493668484445
 MonoBehaviour:
@@ -6551,7 +6591,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Eh, It\u2019s fine. I mean it isn\u2019t bad. "
   textSpeed: 0
 --- !u!114 &-4200373723822041438
 MonoBehaviour:
@@ -6641,7 +6681,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, no. I don\u2019t watch sportsball. ACHOO! *sniff* Ugh. But you don\u2019t
+    really seem like the type either."
   textSpeed: 0
 --- !u!114 &-4125679510521204094
 MonoBehaviour:
@@ -6686,7 +6727,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Oh yeah, he killed it! Man, Jazz really does just take you somewhere else, you
+    know what I mean? '
   textSpeed: 0
 --- !u!114 &-4104490841885985143
 MonoBehaviour:
@@ -6835,15 +6877,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Art
+  - Weather
+  - Classical
 --- !u!114 &-4006406201173876070
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6887,7 +6929,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Huh, yeah this actually is really nice. '
   textSpeed: 0
 --- !u!114 &-3977744694629375327
 MonoBehaviour:
@@ -7045,7 +7087,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Actually yeah, they were really good. It\u2019s hard to be in a bad mood with
+    music like that honestly. "
   textSpeed: 0
 --- !u!114 &-3941521023594567252
 MonoBehaviour:
@@ -7090,7 +7133,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "*Yawn* Uhhh, yeah, I guess? It\u2019s alright. Wait, I thought you said you
+    were allergic to fish? "
   textSpeed: 0
 --- !u!114 &-3927528781944866346
 MonoBehaviour:
@@ -7135,7 +7179,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'H-huh? Uh yeah. I-I, uh, I kinda do. '
   textSpeed: 0
 --- !u!114 &-3925578963792009329
 MonoBehaviour:
@@ -7180,7 +7224,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - Yeah, they do.
   textSpeed: 0
 --- !u!114 &-3856011225435363231
 MonoBehaviour:
@@ -7225,7 +7269,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - '*yawn* I dunno '
   textSpeed: 0
 --- !u!114 &-3845111360737393108
 MonoBehaviour:
@@ -7326,15 +7370,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &-3695768975302334682
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7378,7 +7422,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, it\u2019s nice. Good weather for a walk. "
   textSpeed: 0
 --- !u!114 &-3695572951296887017
 MonoBehaviour:
@@ -7636,10 +7680,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - ' This punch is lovely. The flavors mix together quite excellently. '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -7689,7 +7733,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Huh? Oh, yeah it\u2019s, uh, it\u2019s pretty good.  "
   textSpeed: 0
 --- !u!114 &-3564081774839616789
 MonoBehaviour:
@@ -7734,7 +7778,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - '*sniff* Huh? Uh yeah. I, uh, I kinda do. '
   textSpeed: 0
 --- !u!114 &-3438046031450347849
 MonoBehaviour:
@@ -7839,10 +7883,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -7892,7 +7937,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Uh, kinda. I don\u2019t mind it. I don\u2019t really find it all relaxing,
+    but I also don't really mind it.  "
   textSpeed: 0
 --- !u!114 &-3370941182327138292
 MonoBehaviour:
@@ -8050,7 +8096,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Ugh, no. I don\u2019t get why anyone enjoys walking an uneven path and getting
+    sweaty, and bit by bugs, and you have to carry any food or water you wanna bring,
+    and then you have to drive home tired and sticky and itchy and\u2026 ugh. "
   textSpeed: 0
 --- !u!114 &-3287998346306334630
 MonoBehaviour:
@@ -8095,7 +8143,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Oh, uh, I don\u2019t really care for rock. Just don't like the sound. "
   textSpeed: 0
 --- !u!114 &-3252201093692894933
 MonoBehaviour:
@@ -8140,7 +8188,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' I mean I guess? '
   textSpeed: 0
 --- !u!114 &-3246106263795067044
 MonoBehaviour:
@@ -8185,7 +8233,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Oh yeah, this stuff is pretty great! Glad I could try it. '
   textSpeed: 0
 --- !u!114 &-3196697998331348712
 MonoBehaviour:
@@ -8230,7 +8278,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Oh yeah, I really like fish. It\u2019s delicious, and it\u2019s pretty good
+    for you. But uh, didn\u2019t you say you're allergic to fish earlier?"
   textSpeed: 0
 --- !u!114 &-3163775395980178366
 MonoBehaviour:
@@ -8320,7 +8369,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "*yawn* Uh, I think it\u2019s kinda boring. "
   textSpeed: 0
 --- !u!114 &-3079706090751981675
 MonoBehaviour:
@@ -8365,7 +8414,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Uh, I don\u2019t read very much. What's the point of reading a book when I
+    can just watch a movie or show? It\u2019s a waste of time. "
   textSpeed: 0
 --- !u!114 &-3008686432117918321
 MonoBehaviour:
@@ -8613,7 +8663,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, I can\u2019t stand drama. And it always makes me feel second hand embarrassment,
+    its just, eugh. ACHOO! Ugh\u2026  "
   textSpeed: 0
 --- !u!114 &-2898426158227349961
 MonoBehaviour:
@@ -8658,7 +8709,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, yeah they are. They look really good too. '
   textSpeed: 0
 --- !u!114 &-2883822417043213425
 MonoBehaviour:
@@ -8703,7 +8754,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Not really, but at least we\u2019re indoors."
   textSpeed: 0
 --- !u!114 &-2758601917451202762
 MonoBehaviour:
@@ -8807,15 +8858,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &-2751123712077018815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8859,7 +8910,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Uh, I guess? I\u2019ll watch it with friends. But you don\u2019t really seem
+    like a sports fan. No offense! "
   textSpeed: 0
 --- !u!114 &-2648239407041922870
 MonoBehaviour:
@@ -9062,7 +9114,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - He just kinda played a bunch a noise, I guess it was meant to be free-form or
+    something but it just made my head hurt.
   textSpeed: 0
 --- !u!114 &-2608696029903430778
 MonoBehaviour:
@@ -9167,10 +9220,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9220,7 +9273,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " I don\u2019t read very much. I'd rather just\u2026 *yawn* I\u2019d rather just
+    watch a show instead"
   textSpeed: 0
 --- !u!114 &-2526129212832602936
 MonoBehaviour:
@@ -9321,15 +9375,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Reality TV
+  - Reading
+  - Sports
 --- !u!114 &-2462535940733796912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9599,7 +9653,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " *ACHOO* Eugh, oh, uh, I think it\u2019s kinda boring. "
   textSpeed: 0
 --- !u!114 &-2273150519076488273
 MonoBehaviour:
@@ -9733,7 +9787,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-2220184265992283147
@@ -9839,10 +9893,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9892,7 +9946,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Huh? Oh\u2026 kinda? I don\u2019t seek it out, but if it happens to be on then
+    I\u2019ll watch it, sure. "
   textSpeed: 0
 --- !u!114 &-2171893533486553351
 MonoBehaviour:
@@ -10110,10 +10165,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10224,9 +10279,10 @@ MonoBehaviour:
       _typeConstraint: 0
       _dynamic: 1
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10276,7 +10332,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, no. It\u2019s always either nasty or bland, and the texture is just weird.
+    Wait, didn\u2019t you say you were allergic to fish earlier? "
   textSpeed: 0
 --- !u!114 &-2007827800468781094
 MonoBehaviour:
@@ -10321,7 +10378,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Ah. Yeah, I don''t read a lot of books. I think most of my reading is Manga
+    at this point.  '
   textSpeed: 0
 --- !u!114 &-1866799036492903605
 MonoBehaviour:
@@ -10366,7 +10424,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah it's super cool, and there's so much! It reminds me of\u2026 never mind."
   textSpeed: 0
 --- !u!114 &-1860177677579924539
 MonoBehaviour:
@@ -10411,7 +10469,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Huh? Oh, yeah it\u2019s, uh, it\u2019s pretty good.  "
   textSpeed: 0
 --- !u!114 &-1834866325316797450
 MonoBehaviour:
@@ -10456,7 +10514,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, yeah I like watching football, if that''s what you mean. But I also like
+    watching soccer sometimes, if that was what you meant instead. '
   textSpeed: 0
 --- !u!114 &-1827902709040193804
 MonoBehaviour:
@@ -10591,7 +10650,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-1774106252419275620
@@ -10697,10 +10756,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - I positively ADORE some reality TV. The drama and stakes are Lovely!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10908,7 +10967,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, sure? I\u2019m not really into art.  "
   textSpeed: 0
 --- !u!114 &-1582372301036772460
 MonoBehaviour:
@@ -11013,10 +11072,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - This punch is lovely. The flavors mix together quite excellently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11111,7 +11170,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah, same. I used to think I hated drama, but I realized I really like drama
+    when it doesn\u2019t involve someone I know.  "
   textSpeed: 0
 --- !u!114 &-1485115658054941252
 MonoBehaviour:
@@ -11156,7 +11216,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah! Most people assume I don\u2019t, but I actually really like watching
+    sports. Although the teams I root for usually lose, but it's still fun. And they\u2019ll
+    get far this season, I swear! "
   textSpeed: 0
 --- !u!114 &-1423800364966706114
 MonoBehaviour:
@@ -11257,15 +11319,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Reality TV
+  - Reading
+  - Sports
 --- !u!114 &-1408615724643849011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11422,7 +11484,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, I actually do. It\u2019s nice. It\u2019s really relaxing, being out in
+    nature, away from roads and buildings and crowds. I do stick to pretty popular
+    paths though. "
   textSpeed: 0
 --- !u!114 &-1388403181768716269
 MonoBehaviour:
@@ -11527,10 +11591,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - " Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11580,7 +11645,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, yeah I actually really enjoy reading. I mostly read fantasy books though,
+    so you probably haven\u2019t heard of them."
   textSpeed: 0
 --- !u!114 &-1230170082795414176
 MonoBehaviour:
@@ -11670,7 +11736,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah! Most people assume I don\u2019t, but I actually really like watching
+    sports. Although the teams I root for usually lose, but it's still fun. And they\u2019ll
+    get far this season, I swear! "
   textSpeed: 0
 --- !u!114 &-1202321644625323299
 MonoBehaviour:
@@ -12091,10 +12159,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy fish? I greatly enjoy it and eat it daily! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12144,7 +12212,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, why are you talking like that? And I don''t really get it either. '
   textSpeed: 0
 --- !u!114 &-801247619316462691
 MonoBehaviour:
@@ -12392,7 +12460,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'I guess? '
   textSpeed: 0
 --- !u!114 &-622243236879307513
 MonoBehaviour:
@@ -12437,7 +12505,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah, I really like fish. It\u2019s delicious, and it\u2019s pretty good
+    for you. But uh, didn\u2019t you say you're allergic to fish earlier? "
   textSpeed: 0
 --- !u!114 &-574621045834377687
 MonoBehaviour:
@@ -12527,7 +12596,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Oh yeah! I really like Hunter x Hunter, Fullmetal Alchemist, Yuyu Hakusho, The
+    Rising of the Shield Hero, That Time I got Reincarnated as a Slime- *He continues
+    to list off '
   textSpeed: 0
 --- !u!114 &-521159030989876588
 MonoBehaviour:
@@ -12572,7 +12643,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " I don\u2019t really get it. *sniff* Sounded kinda messy, he was kinda all over
+    the place. "
   textSpeed: 0
 --- !u!114 &-405254953336185324
 MonoBehaviour:
@@ -12617,7 +12689,12 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Ugh, no. I don\u2019t get sports. It\u2019s just watching people knock a ball
+    back and forth in a field until one team hits it past the other. And a lot of
+    people talk like they\u2019re a part of the team, even though they\u2019re just
+    sitting at home watching it on their TV. Like \u201Coh we won\u201D what do mean
+    we? They won, you just watched! A-anyway, uh, no I don\u2019t care for sports.
+    Sorry. "
   textSpeed: 0
 --- !u!114 &-387908151404350939
 MonoBehaviour:
@@ -12767,10 +12844,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy fish? I greatly enjoy it and eat it daily! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12820,7 +12897,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Rock is alright. I mostly listen to vide- uh, I mean\u2026 nevermind. "
   textSpeed: 0
 --- !u!114 &-145499068572205018
 MonoBehaviour:
@@ -12966,15 +13043,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &-47000489202577742
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13018,7 +13095,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' H-huh? Uh yeah. I-I, uh, I kinda do. '
   textSpeed: 0
 --- !u!114 &11400000
 MonoBehaviour:
@@ -13533,10 +13610,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -13586,7 +13663,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "*sniff* Eh, I\u2019m not really a rock fan. It just isn\u2019t my thi-i-i-ACHOO. "
   textSpeed: 0
 --- !u!114 &156048511424902867
 MonoBehaviour:
@@ -13829,7 +13906,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, I actually do. It\u2019s nice. It\u2019s really relaxing, being out in
+    nature, away from roads and buildings and crowds. I do stick to pretty popular
+    paths though.  "
   textSpeed: 0
 --- !u!114 &351686826981943235
 MonoBehaviour:
@@ -13934,10 +14013,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'This punch is lovely. The flavors mix together quite excellently. '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -13987,7 +14066,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, uh, I think it\u2019s kinda boring. "
   textSpeed: 0
 --- !u!114 &525146015314796854
 MonoBehaviour:
@@ -14250,10 +14329,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock n Roll in my circles than this classic stuff. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14303,7 +14382,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah! Most people assume I don\u2019t, but I actually really like watching
+    sports. Although the teams I root for usually lose, but it's still fun. And they\u2019ll
+    get far this season, I swear! "
   textSpeed: 0
 --- !u!114 &643842341459522005
 MonoBehaviour:
@@ -14393,7 +14474,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - Uh, yeah I like watching football, if that's what you mean. But I also like watching
+    soccer sometimes, if that was what you meant instead.
   textSpeed: 0
 --- !u!114 &724025474383086388
 MonoBehaviour:
@@ -14498,10 +14580,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14652,15 +14735,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &801994165381321098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14704,7 +14787,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, I guess? I\u2019ll watch it with friends. But you don\u2019t really seem
+    like a sports fan. No offense! "
   textSpeed: 0
 --- !u!114 &804935221107335953
 MonoBehaviour:
@@ -14794,7 +14878,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Eh, I\u2019m not really a rock fan. It\u2019s just not my thing. "
   textSpeed: 0
 --- !u!114 &849188798931629164
 MonoBehaviour:
@@ -14899,10 +14983,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - ' I positively ADORE some reality TV. The drama and stakes are Lovely! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15012,10 +15096,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15065,7 +15150,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, I can\u2019t stand drama. And it always makes me feel second-hand embarrassment.
+    So why did I agree to come here then? "
   textSpeed: 0
 --- !u!114 &984481825407096368
 MonoBehaviour:
@@ -15110,7 +15196,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Not really, makes me wanna go back to bed. '
   textSpeed: 0
 --- !u!114 &1048476654784624497
 MonoBehaviour:
@@ -15155,7 +15241,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Yeah, this stuff is surprisingly good. '
   textSpeed: 0
 --- !u!114 &1226670870415139641
 MonoBehaviour:
@@ -15260,10 +15346,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - ' I positively ADORE some reality TV. The drama and stakes are Lovely! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15358,7 +15444,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, it\u2019s really nice actually. Didn\u2019t realize I liked classical. "
   textSpeed: 0
 --- !u!114 &1258483574172342098
 MonoBehaviour:
@@ -15403,7 +15489,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Huh? Oh, yeah. I actually really enjoy rock and metal. I like that high energy
+    punchy stuff, y\u2019know? "
   textSpeed: 0
 --- !u!114 &1521387032508769549
 MonoBehaviour:
@@ -15601,7 +15688,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Huh? Oh, yeah it is nice now that you mention it. '
   textSpeed: 0
 --- !u!114 &1640631105102406924
 MonoBehaviour:
@@ -15646,7 +15733,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Rock is alright. I mostly listen to vide- uh, I mean *sniff* \u2026nevermind. "
   textSpeed: 0
 --- !u!114 &1668471861353522949
 MonoBehaviour:
@@ -15751,10 +15838,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15804,7 +15892,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "*sniff* Uh, kinda? I don\u2019t really root for any specific team, but I\u2019ve
+    watched a game befo-o-o-ACHOO! "
   textSpeed: 0
 --- !u!114 &1711341418683029095
 MonoBehaviour:
@@ -16233,7 +16322,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah, I really like fish. It\u2019s delicious, and it\u2019s pretty good
+    for you. But uh, didn\u2019t you say you're allergic to fish earlier? "
   textSpeed: 0
 --- !u!114 &2048674392238430496
 MonoBehaviour:
@@ -16278,7 +16368,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " I actually really enjoy reading. I mostly read fantasy books though, so you
+    probably haven\u2019t heard of them. But if you want recommendations, I can give
+    you a few."
   textSpeed: 0
 --- !u!114 &2120387779119292702
 MonoBehaviour:
@@ -16383,10 +16475,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16436,7 +16528,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "It\u2019s pretty crappy, just like this whole day. "
   textSpeed: 0
 --- !u!114 &2229932614368722471
 MonoBehaviour:
@@ -16481,7 +16573,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " It\u2019s normal, I guess? "
   textSpeed: 0
 --- !u!114 &2400707605641595798
 MonoBehaviour:
@@ -16526,7 +16618,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "It\u2019s really getting on my nerves actually. "
   textSpeed: 0
 --- !u!114 &2470174783685810038
 MonoBehaviour:
@@ -16571,7 +16663,10 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Ugh, no. I don\u2019t get why anyone enjoys walking an uneven path and getting
+    sweaty, and bit by bugs, and you have to carry any food or water you wanna bring,
+    and then you have to drive home tired and sticky and itchy and just... Ugh, it
+    just ruins a day. "
   textSpeed: 0
 --- !u!114 &2497857371250466956
 MonoBehaviour:
@@ -16676,10 +16771,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what''s not to love? '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16729,7 +16825,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - Mmm, yeah this is actually pretty great. Ah, maybe today will be alright.
   textSpeed: 0
 --- !u!114 &2559053815191164338
 MonoBehaviour:
@@ -16774,7 +16870,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - '*sniff* Eugh. Uh, why are you talking like that? And I don''t really get it
+    either.'
   textSpeed: 0
 --- !u!114 &2588706473693513281
 MonoBehaviour:
@@ -16819,7 +16916,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Eh, I\u2019m not really a rock fan. It just isn\u2019t my thing. I like more
+    *yawn* relaxing stuff I guess. "
   textSpeed: 0
 --- !u!114 &2610122360016057108
 MonoBehaviour:
@@ -16909,7 +17007,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "I don\u2019t really get it, it sounded kinda messy. I mean, I\u2019ve heard
+    way better music in videogames. Why did I agree to come?"
   textSpeed: 0
 --- !u!114 &2783854728426150483
 MonoBehaviour:
@@ -16954,7 +17053,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, I guess? I don't really get Jazz, but it wasn\u2019t bad."
   textSpeed: 0
 --- !u!114 &2818074130934079677
 MonoBehaviour:
@@ -17059,10 +17158,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy fish? I greatly enjoy it and eat it daily! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17112,7 +17211,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "It\u2019s fine."
   textSpeed: 0
 --- !u!114 &2946292986883437886
 MonoBehaviour:
@@ -17243,7 +17342,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - Good evening.
+  - "O-Oh, hello\u2026 "
   textSpeed: 0
   quirk: 000000000100000002000000030000000400000005000000
 --- !u!114 &2980212668399375656
@@ -17461,15 +17560,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &3002019185982057075
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17573,10 +17672,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock n Roll in my circles than this classic stuff. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17626,7 +17725,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - Huh? Oh, yeah actually. This is really nice.
   textSpeed: 0
 --- !u!114 &3132082205069209808
 MonoBehaviour:
@@ -17772,15 +17871,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - ' (Looks like the ball is in my court. What should I talk about?)'
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &3299253093908794965
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17880,15 +17979,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &3346207689259658187
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17932,7 +18031,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Why are you talking like that? It\u2019s not cute, it\u2019s weird. And no,
+    they\u2019re not cute. "
   textSpeed: 0
 --- !u!114 &3385047602189567640
 MonoBehaviour:
@@ -18112,7 +18212,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, why are you talking like that? And I don''t really get it either. Ugh, why
+    did I agree to come? '
   textSpeed: 0
 --- !u!114 &3423936252075250191
 MonoBehaviour:
@@ -18157,7 +18258,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, no. I don\u2019t get sports. It\u2019s a lot of watching people knock a
+    ball back and forth in a field until one team hits it past the other. And a lot
+    of people talk like they\u2019re a part of the team, I just don't get it. "
   textSpeed: 0
 --- !u!114 &3490545570915243669
 MonoBehaviour:
@@ -18202,7 +18305,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' O-oh, Uh, n-no! Anime is lame, and and, uh, for nerds. '
   textSpeed: 0
 --- !u!114 &3544117551747035403
 MonoBehaviour:
@@ -18336,7 +18439,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &3741412473403307842
@@ -18427,7 +18530,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'H-huh? Hey, are you making fun of me!? '
   textSpeed: 0
 --- !u!114 &3767767314024898327
 MonoBehaviour:
@@ -18472,7 +18575,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - '*sniff* I guess? '
   textSpeed: 0
 --- !u!114 &3777091142157420443
 MonoBehaviour:
@@ -18517,7 +18620,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "I actually really enjoy reading. I-I\u2026 *yawn* I mostly read fantasy books
+    though, so you probably haven\u2019t heard of them. "
   textSpeed: 0
 --- !u!114 &3798715521339101718
 MonoBehaviour:
@@ -18622,10 +18726,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -18765,7 +18870,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah it's super cool, reminds me of\u2026 never mind. "
   textSpeed: 0
 --- !u!114 &4044107842207378256
 MonoBehaviour:
@@ -18810,7 +18915,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Yeah, it\u2019s really nice actually. I\u2019m really glad I came. "
   textSpeed: 0
 --- !u!114 &4142952045829714406
 MonoBehaviour:
@@ -18855,7 +18960,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, sure? I\u2019m not really into art. "
   textSpeed: 0
 --- !u!114 &4185566970372975819
 MonoBehaviour:
@@ -18960,10 +19065,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19013,7 +19118,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - '*sniff* I dunno'
   textSpeed: 0
 --- !u!114 &4473773066792604005
 MonoBehaviour:
@@ -19103,7 +19208,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Ah. Yeah, I don''t read a lot of books. I think most of my reading is Manga
+    at this point.  '
   textSpeed: 0
 --- !u!114 &4501592778207036695
 MonoBehaviour:
@@ -19148,7 +19254,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Ugh, that stuff is not for me *sniff* taste nasty '
   textSpeed: 0
 --- !u!114 &4665857450592781891
 MonoBehaviour:
@@ -19343,10 +19449,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I had so many so many scripts to review lately, I don\u2019t  know if I\u2019ll
+    ever want to read again! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19396,7 +19503,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Uh, I guess? I\u2019ll watch it with friends. But you don\u2019t really seem
+    like a sports fan. No offense! "
   textSpeed: 0
 --- !u!114 &5042259849567073509
 MonoBehaviour:
@@ -19501,10 +19609,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19710,7 +19818,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Uh, I mean I guess? *sniff* '
   textSpeed: 0
 --- !u!114 &5165105711430214201
 MonoBehaviour:
@@ -19815,10 +19923,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what''s not to love? '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19868,7 +19977,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uhhh, yeah, I guess? It\u2019s alright. Wait, I thought you said you were allergic
+    to fish? "
   textSpeed: 0
 --- !u!114 &5227397665911823938
 MonoBehaviour:
@@ -19913,7 +20023,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "I think it's kinda boring *yawn* It\u2019s making me tired actually.. "
   textSpeed: 0
 --- !u!114 &5252465563098433179
 MonoBehaviour:
@@ -19958,7 +20068,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Eugh, it tastes kinda off to me. '
   textSpeed: 0
 --- !u!114 &5293448498038824629
 MonoBehaviour:
@@ -20003,7 +20113,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, I guess? I don't really get Jazz, but it wasn\u2019t bad. "
   textSpeed: 0
 --- !u!114 &5306521991609911738
 MonoBehaviour:
@@ -20093,7 +20203,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, I guess? I don't really get Jazz, but it wasn\u2019t bad."
   textSpeed: 0
 --- !u!114 &5403405464491931532
 MonoBehaviour:
@@ -20228,7 +20338,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, no. I don\u2019t watch sportsball. But\u2026 *yawn* but you don\u2019t
+    really seem like the type either."
   textSpeed: 0
 --- !u!114 &5572274373191540101
 MonoBehaviour:
@@ -20408,7 +20519,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, yeah they are. They look really good too. '
   textSpeed: 0
 --- !u!114 &5635849000913130580
 MonoBehaviour:
@@ -20453,7 +20564,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, I mean I guess?  '
   textSpeed: 0
 --- !u!114 &5742769445532865310
 MonoBehaviour:
@@ -20498,7 +20609,10 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, no. I don\u2019t get why anyone enjoys walking an uneven path and getting
+    sweaty, and bit by bugs, and you have to carry any food or water you wanna bring,
+    and then you have to drive home tired and sticky and itchy and just.. And just\u2026
+    *yaaawn* yeah, kinda like that. "
   textSpeed: 0
 --- !u!114 &5798000939385109207
 MonoBehaviour:
@@ -20603,10 +20717,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20715,15 +20830,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &5866458869812574708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20827,10 +20942,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20940,10 +21055,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - " I had so many so many scripts to review lately, I don\u2019t  know if I\u2019ll
+    ever want to read again!  "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20993,7 +21109,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Uh, yeah I like watching football, if that''s what you mean. But I also like
+    watching soccer sometimes, if that was what you meant instead. '
   textSpeed: 0
 --- !u!114 &5924147536508728329
 MonoBehaviour:
@@ -21038,7 +21155,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, sure? I\u2019m not really into art. *sniff* "
   textSpeed: 0
 --- !u!114 &5936055792043542721
 MonoBehaviour:
@@ -21143,10 +21260,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21387,15 +21505,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Reality TV
+  - Reading
+  - Sports
 --- !u!114 &6083031346573029118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21499,10 +21617,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21660,7 +21779,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "I don\u2019t read very much. ACHOO! *sniff* Ugh. I'd rather just watch a show
+    instead"
   textSpeed: 0
 --- !u!114 &6125926001274742925
 MonoBehaviour:
@@ -21878,10 +21998,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what''s not to love? '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21931,7 +22052,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "It\u2019s pretty good, not my favorite though. "
   textSpeed: 0
 --- !u!114 &6257128211086200102
 MonoBehaviour:
@@ -21976,7 +22097,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, yeah. I actually really enjoy rock and metal. I like that high energy punchy
+    stuff, y\u2019know? "
   textSpeed: 0
 --- !u!114 &6259513432505950343
 MonoBehaviour:
@@ -22021,7 +22143,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Uh, yeah I like watching football, if that''s what you mean. But I also like
+    watching soccer sometimes, if that was what you meant instead.'
   textSpeed: 0
 --- !u!114 &6412932653472953843
 MonoBehaviour:
@@ -22156,7 +22279,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Ugh, lord this is bad. '
   textSpeed: 0
 --- !u!114 &6537240572567394887
 MonoBehaviour:
@@ -22257,15 +22380,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &6587201448794900141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22309,7 +22432,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - Ah. Yeah, I don't read a lot of books. I think most of my reading is Manga at
+    this point.
   textSpeed: 0
 --- !u!114 &6609176015788350090
 MonoBehaviour:
@@ -22354,7 +22478,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - ' Huh? Uh yeah. I, uh, I kinda do. '
   textSpeed: 0
 --- !u!114 &6657339023936506545
 MonoBehaviour:
@@ -22723,10 +22847,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what''s not to love? '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -22821,7 +22946,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " I don\u2019t read very much. I'd rather just watch a show or movie instead.
+    Which I could be doing now if I didn\u2019t agree to come. "
   textSpeed: 0
 --- !u!114 &6892225126998818688
 MonoBehaviour:
@@ -22926,10 +23052,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I had so many so many scripts to review lately, I don\u2019t  know if I\u2019ll
+    ever want to read again!  "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23092,7 +23219,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Mhmm, it\u2019s really good. I wonder what all they used? I think I can taste\u2026
+    oh, uh, sorry, I was about to start rambling."
   textSpeed: 0
 --- !u!114 &6981992810799622257
 MonoBehaviour:
@@ -23197,10 +23325,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23250,7 +23378,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'I dunno, seems fine to me. '
   textSpeed: 0
 --- !u!114 &7066093877270319188
 MonoBehaviour:
@@ -23535,10 +23663,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23633,7 +23761,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh yeah, same. I used to think I hated drama, but I realized I really like drama
+    when it doesn\u2019t involve someone I know"
   textSpeed: 0
 --- !u!114 &7317919456523086243
 MonoBehaviour:
@@ -23678,7 +23807,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Ugh, no. It\u2019s always either nasty or bland, and the texture sucks. Wait,
+    didn\u2019t you say you were allergic to fish earlier? "
   textSpeed: 0
 --- !u!114 &7356449976399253388
 MonoBehaviour:
@@ -23723,7 +23853,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Eugh, it tastes off to me. How does anyone like this stuff? Oh, uh, no offense
+    though. '
   textSpeed: 0
 --- !u!114 &7356648637020423988
 MonoBehaviour:
@@ -23768,7 +23899,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "*Yawn* Uh, kinda. I don\u2019t mind it. I don\u2019t really find it all relaxing,
+    but I also don't really mind it. *Yawn* Ugh, but when I\u2019m this tired I just
+    wanna  lie down. "
   textSpeed: 0
 --- !u!114 &7417974797379157315
 MonoBehaviour:
@@ -24031,10 +24164,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - " I had so many so many scripts to review lately, I don\u2019t  know if I\u2019ll
+    ever want to read again!  "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24084,7 +24218,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Uh, yeah, I guess? It\u2019s alright. Wait, I thought you said you were allergic
+    to fish?"
   textSpeed: 0
 --- !u!114 &7424680010935144571
 MonoBehaviour:
@@ -24189,10 +24324,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'I positively ADORE some reality TV. The drama and stakes are Lovely! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24242,7 +24377,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Rock is alright. I mostly listen to vide- uh, I mean\u2026 nevermind. "
   textSpeed: 0
 --- !u!114 &7571886859883675197
 MonoBehaviour:
@@ -24287,7 +24422,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Huh? Oh *sniff* kinda? I don\u2019t seek it out, but if it happens to be on
+    then I\u2019ll watch it, sure."
   textSpeed: 0
 --- !u!114 &7586596160167026106
 MonoBehaviour:
@@ -24377,7 +24513,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Eh, it\u2019s fine I guess. "
   textSpeed: 0
 --- !u!114 &7701906425092429420
 MonoBehaviour:
@@ -24527,10 +24663,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24580,7 +24716,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Huh? Oh yeah! I really like Hunter x Hunter, Fullmetal Alchemist, Yuyu Hakusho,
+    The Rising of the Shield Hero, That Time I got Reincarnated as a Slime- *He continues
+    to list off more anime titles as you stop listening* '
   textSpeed: 0
 --- !u!114 &7858267428308029861
 MonoBehaviour:
@@ -24681,15 +24819,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &7995908225176331622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24959,7 +25097,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Oh Yeah, I actually do. It\u2019s nice. It\u2019s really relaxing, being out
+    in nature, away from roads and buildings and crowds. I do stick to pretty popular
+    paths though. Kinda wish I went on a hike instead of coming here honestly. "
   textSpeed: 0
 --- !u!114 &8054747693171371769
 MonoBehaviour:
@@ -25004,7 +25144,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Eugh, it tastes off to me. I\u2019d rather just buy some juice from the store. "
   textSpeed: 0
 --- !u!114 &8068175332008512007
 MonoBehaviour:
@@ -25049,7 +25189,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Huh? Oh, yeah it\u2019s pretty good. "
   textSpeed: 0
 --- !u!114 &8133810616445127218
 MonoBehaviour:
@@ -25154,10 +25294,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25252,7 +25392,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Yeah, and they have crap taste. '
   textSpeed: 0
 --- !u!114 &8248864917065508857
 MonoBehaviour:
@@ -25353,15 +25493,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &8298191127744677750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25465,10 +25605,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25518,7 +25658,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, I guess? I\u2019ll watch it with friends. But you don\u2019t really seem
+    like a sports fan. No offense!:"
   textSpeed: 0
 --- !u!114 &8412090868267409582
 MonoBehaviour:
@@ -25563,7 +25704,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Uh, kinda? I don\u2019t really root for any specific team, but I\u2019ve watched
+    a game\u2026 before*yawn*.. "
   textSpeed: 0
 --- !u!114 &8441995120598130300
 MonoBehaviour:
@@ -25608,7 +25750,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " Eh, it\u2019s not my thing. Why did I want to come here again? "
   textSpeed: 0
 --- !u!114 &8489342883283066061
 MonoBehaviour:
@@ -25811,7 +25953,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " *Sniff* Uh, kinda. I don\u2019t mind it. I don\u2019t really find it all relaxing,
+    but I also dont really mind it. *sniff* But not when I feel like this, ugh. "
   textSpeed: 0
 --- !u!114 &8553563598218094480
 MonoBehaviour:
@@ -25856,7 +25999,9 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Oh yeah! I really like Hunter x Hunter, Fullmetal Alchemist, Yuyu Hakusho, The
+    Rising of the Shield Hero, That Time I got Reincarnated as a Slime- *He continues
+    to list off more anime titles as you stop listening* '
   textSpeed: 0
 --- !u!114 &8713153103063161012
 MonoBehaviour:
@@ -25901,7 +26046,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "*Sniff* Ugh, no. It\u2019s always either nasty or bland, and the texture is
+    just weird. Wait, didn\u2019t you say you were allergic to fish earlier? "
   textSpeed: 0
 --- !u!114 &8748147348167681790
 MonoBehaviour:
@@ -26002,15 +26148,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &8759884149655446457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26099,7 +26245,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Huh? Oh, yeah it\u2019s pretty good. "
   textSpeed: 0
 --- !u!114 &8902911025557688680
 MonoBehaviour:
@@ -26249,10 +26395,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Do you enjoy fish? I greatly enjoy it and eat it daily! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26470,10 +26616,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'Those macarons they have are so cuuute! Such pretty colors too! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26523,7 +26669,8 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - " it\u2019s really good. I wonder what all they used? I think I can taste\u2026
+    oh, uh, sorry, I was about to start rambling. "
   textSpeed: 0
 --- !u!114 &9106192332850776390
 MonoBehaviour:
@@ -26568,7 +26715,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Huh? Oh, I didn\u2019t really notice. Wow, that's pretty amazing. "
   textSpeed: 0
 --- !u!114 &9116390501073602340
 MonoBehaviour:
@@ -26673,10 +26820,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26726,7 +26874,7 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - 'Uh, I mean I guess?  '
   textSpeed: 0
 --- !u!114 &9151375182186478885
 MonoBehaviour:
@@ -26831,10 +26979,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
-  speakerName: Link
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26929,5 +27077,5 @@ MonoBehaviour:
   portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
   speakerName: Link
   DialogText:
-  - 
+  - "Oh, Uh, no! I-I\u2019m here because I\u2019m not some nerd who likes Anime! "
   textSpeed: 0
