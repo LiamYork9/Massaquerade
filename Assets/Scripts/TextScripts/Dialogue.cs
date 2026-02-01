@@ -253,15 +253,20 @@ public class Dialogue : MonoBehaviour
         }
         else if(activeSegment is DialogMaskSegment)
         {
-            Debug.Log((activeSegment as DialogMaskSegment).GetValue((activeSegment as DialogMaskSegment).GetPort("Ask")));
             for(int i = 0; i<(activeSegment as DialogMaskSegment).Masks.Count; i++)
             {
+                Debug.Log(i);
                 if(Player.Instance.mask == (activeSegment as DialogMaskSegment).Masks[i])
                 {
+                    Debug.Log("InIf");
                     UpdateDialog(activeSegment.GetPort("Masks " + i).Connection.node as DialogSegment);
-                TextBoxManager.Instance.textComponent.text = string.Empty;
-                StartCoroutine(TypeLine());
+                    Debug.Log("UpdateDialog");
+                    TextBoxManager.Instance.textComponent.text = string.Empty;
+                    Debug.Log("TextBoxManager");
+                    StartCoroutine(TypeLine());
+                    Debug.Log("LateIf");
                 }
+                Debug.Log("LaterIf");
             }
         }
         else
