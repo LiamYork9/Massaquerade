@@ -43,7 +43,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I suspect *ACHOO* that the outdoors is what gave me this *ACHOO* infernal bug.
   textSpeed: 0
 --- !u!114 &-9088847583587754493
 MonoBehaviour:
@@ -88,7 +88,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I suppose I have one *ACHOO* or two *ACHOO* *ACHOO* I\u2019ve watched in the
+    past."
   textSpeed: 0
 --- !u!114 &-9079416763010174448
 MonoBehaviour:
@@ -133,7 +134,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - My favorite! I simply had to come just for them! Whether they wanted me or not!
   textSpeed: 0
 --- !u!114 &-9019408469898224235
 MonoBehaviour:
@@ -238,10 +239,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'This punch is lovely. The flavors mix together quite excellently.   '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -291,7 +292,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - On the contrary, I find it overpoweringly sweet. The flavor is making me sick
+    to my stomach.
   textSpeed: 0
 --- !u!114 &-8956519978870286939
 MonoBehaviour:
@@ -336,7 +338,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Isn\u2019t it lovely! Such beauty! Such *yaaaaaaaaawn* elegance!  "
   textSpeed: 0
 --- !u!114 &-8879183218866349575
 MonoBehaviour:
@@ -381,7 +383,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - On the contrary, I find it overpoweringly sweet. To each their own, I suppose.
   textSpeed: 0
 --- !u!114 &-8862381457661565323
 MonoBehaviour:
@@ -426,7 +428,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh both are lovely *ACHOO* but I *ACHOO* must admit I do *ACHOO* quite enjoy
+    Rock a*ACHOO* Roll
   textSpeed: 0
 --- !u!114 &-8849361155279682880
 MonoBehaviour:
@@ -471,7 +474,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - '*yaaaaaaawn* I do not share your taste it seems.'
   textSpeed: 0
 --- !u!114 &-8786886226332287931
 MonoBehaviour:
@@ -516,7 +519,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Ohhhh, yes! I prefer to spectate, but goodness, athletes are fun to watch.
   textSpeed: 0
 --- !u!114 &-8700366523972896666
 MonoBehaviour:
@@ -561,7 +564,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "They\u2019re fine. Very cute."
   textSpeed: 0
 --- !u!114 &-8670391984033521764
 MonoBehaviour:
@@ -606,7 +609,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Yes. Though from the looks of them it would look better if I *ACHOO*... do that
+    on them.
   textSpeed: 0
 --- !u!114 &-8647359648845683576
 MonoBehaviour:
@@ -711,10 +715,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -764,7 +768,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Dont *ACHOO* watch much ac '
   textSpeed: 0
 --- !u!114 &-8567760879151795062
 MonoBehaviour:
@@ -809,7 +813,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Champagne is not to my taste.
   textSpeed: 0
 --- !u!114 &-8523036033964570064
 MonoBehaviour:
@@ -854,7 +858,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "*ACHOO* Oh it\u2019s dreadful for my body and soul."
   textSpeed: 0
 --- !u!114 &-8519213051415101004
 MonoBehaviour:
@@ -899,7 +903,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Oh, absolutely! They had such passion! '
   textSpeed: 0
 --- !u!114 &-8519074524206508607
 MonoBehaviour:
@@ -944,7 +948,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "This is more mediocre I\u2019d say."
   textSpeed: 0
 --- !u!114 &-8508790093346796345
 MonoBehaviour:
@@ -989,7 +993,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - What a delightful medley of *hic* flavors!
   textSpeed: 0
 --- !u!114 &-8403698641397273711
 MonoBehaviour:
@@ -1034,7 +1038,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Not at all. Aren\u2019t you allergic as well? "
   textSpeed: 0
 --- !u!114 &-8355532701508739336
 MonoBehaviour:
@@ -1139,10 +1143,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -1192,7 +1196,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I found that he overpowered the other musicians. The classical band on stage
+    now is more balanced.
   textSpeed: 0
 --- !u!114 &-8316142665668034996
 MonoBehaviour:
@@ -1297,10 +1302,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -1350,7 +1355,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Ugh. We have shows in the greek theater this season and I am *hic* DEVASTATED.
+    It\u2019s just not fair for us to perform in these conditions!"
   textSpeed: 0
 --- !u!114 &-8199838599206816426
 MonoBehaviour:
@@ -1395,7 +1401,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Not at all.. *hic*  Aren\u2019t you allergic as well? "
   textSpeed: 0
 --- !u!114 &-8189012541762761399
 MonoBehaviour:
@@ -1440,7 +1446,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - '*yaaaaaaaaaaaawn* Yes, I suppose it can be nice to see experts perform at their
+    best in any field.'
   textSpeed: 0
 --- !u!114 &-8126062204948202362
 MonoBehaviour:
@@ -1485,7 +1492,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Classical is much better I\u2019d say. The gentle instrumentation can sweep
+    you right off your feet!"
   textSpeed: 0
 --- !u!114 &-8087849502535477877
 MonoBehaviour:
@@ -1530,7 +1538,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I dabble in some casual play.
   textSpeed: 0
 --- !u!114 &-8053122966269830363
 MonoBehaviour:
@@ -1575,7 +1583,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Yes, I suppose it can be nice to see experts perform at their best in any field.
   textSpeed: 0
 --- !u!114 &-8048403954288964066
 MonoBehaviour:
@@ -1620,7 +1628,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Oh, absolutely! He had such passion\u2026 though he seemed awfully familiar."
   textSpeed: 0
 --- !u!114 &-7838665857249533429
 MonoBehaviour:
@@ -1665,7 +1673,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh both are lovely but I must admit I do quite enjoy Rock and Roll.
   textSpeed: 0
 --- !u!114 &-7824965036081130379
 MonoBehaviour:
@@ -1799,7 +1807,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-7814527915302154002
@@ -1845,7 +1853,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - What a delightful medley of flavors! This really is a proper party.
   textSpeed: 0
 --- !u!114 &-7748041369268045402
 MonoBehaviour:
@@ -1890,7 +1898,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "My constitution does not go well with the outdoors. Alas, it\u2019s such a struggle
+    to be delicate as I am."
   textSpeed: 0
 --- !u!114 &-7713946950001377834
 MonoBehaviour:
@@ -1935,7 +1944,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Isn\u2019t it lovely! Such beauty! Such elegance! "
   textSpeed: 0
 --- !u!114 &-7607735572653666909
 MonoBehaviour:
@@ -1980,7 +1989,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - They are both adequate in my eyes.
   textSpeed: 0
 --- !u!114 &-7599075986439160572
 MonoBehaviour:
@@ -2025,7 +2034,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - The band is quite good at its craft.
   textSpeed: 0
 --- !u!114 &-7556697019999610513
 MonoBehaviour:
@@ -2070,7 +2079,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - He vastly overpowered the other musicians. The classical band on stage now is
+    *hic* far more balanced.
   textSpeed: 0
 --- !u!114 &-7519642555891264652
 MonoBehaviour:
@@ -2115,7 +2125,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - My favorite! I simply had to come just for them!
   textSpeed: 0
 --- !u!114 &-7495148971548419187
 MonoBehaviour:
@@ -2160,7 +2170,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent!"
   textSpeed: 0
 --- !u!114 &-7452311846567632509
 MonoBehaviour:
@@ -2205,7 +2215,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Ah, I prefer to keep my sights on the arts. Perhaps you should keep your sights
+    more focused on keeping a shirt on for more than five minutes.
   textSpeed: 0
 --- !u!114 &-7424010303834393413
 MonoBehaviour:
@@ -2310,10 +2321,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -2419,15 +2430,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &-7358599687486129592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2471,7 +2482,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' I am quite partial to romance series though *ACHOO* *ACHOO* I did not expect
+    such enthusiasm for the *ACHOO* medium to come from you.'
   textSpeed: 0
 --- !u!114 &-7331247012855762701
 MonoBehaviour:
@@ -2572,15 +2584,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &-7327915505968536490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2624,7 +2636,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "They\u2019re fine. *yaaaaaaaaaaawn* Very cute."
   textSpeed: 0
 --- !u!114 &-7327548667189241292
 MonoBehaviour:
@@ -2669,7 +2681,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Ugh. I\u2019m grateful we have no shows in the greek theater this season."
   textSpeed: 0
 --- !u!114 &-7307852772212468470
 MonoBehaviour:
@@ -2774,10 +2786,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -2827,7 +2839,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Oh It\u2019s *ACHOO* absolutely lovely. I wish I could enjoy it more. *achoo*"
   textSpeed: 0
 --- !u!114 &-7278132376704691675
 MonoBehaviour:
@@ -2872,7 +2884,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' It is nice.'
   textSpeed: 0
 --- !u!114 &-7209501583572686807
 MonoBehaviour:
@@ -2977,10 +2989,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3030,7 +3043,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh both are *yaaaaaaaawn*lovely but I must admit I do quite enjoy Rock and Roll.
   textSpeed: 0
 --- !u!114 &-7094066629698905029
 MonoBehaviour:
@@ -3075,7 +3088,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I suppose he was talented enough for a saxophone player.
   textSpeed: 0
 --- !u!114 &-7055434531538779722
 MonoBehaviour:
@@ -3120,7 +3133,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Didn\u2019t you say you were *hic* allergic?"
   textSpeed: 0
 --- !u!114 &-7048498520489289605
 MonoBehaviour:
@@ -3165,7 +3178,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Oh I idolized Tamaki from Ouron High School Host Club growing up! So Charasmatic! '
   textSpeed: 0
 --- !u!114 &-7046536970609509946
 MonoBehaviour:
@@ -3180,7 +3193,7 @@ MonoBehaviour:
   m_Name: Dialog Segment
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 4264, y: 632}
+  position: {x: 4264, y: 728}
   ports:
     keys:
     - input
@@ -3210,7 +3223,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I must admit I quite enjoy a good dating sim.
   textSpeed: 0
 --- !u!114 &-7046151062787984989
 MonoBehaviour:
@@ -3315,10 +3328,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3368,7 +3381,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Could be worse could be better.
   textSpeed: 0
 --- !u!114 &-6870725487875169704
 MonoBehaviour:
@@ -3413,7 +3426,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Yes they do. I must say I\u2019m not sure why. These pieces are mediocre at
+    best."
   textSpeed: 0
 --- !u!114 &-6815924934898510377
 MonoBehaviour:
@@ -3458,7 +3472,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Ah, I prefer to keep my sights on the *yaaaaaawn* arts.
   textSpeed: 0
 --- !u!114 &-6710387706706043099
 MonoBehaviour:
@@ -3503,7 +3517,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh, absolutely! He had such passion.
   textSpeed: 0
 --- !u!114 &-6701987740514989781
 MonoBehaviour:
@@ -3548,7 +3562,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I personally preferred the bass player, but perhaps my ears are just more in
+    tune than yours.
   textSpeed: 0
 --- !u!114 &-6617428976822699203
 MonoBehaviour:
@@ -3653,10 +3668,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3706,7 +3721,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must admit  I quite enjoy a good dating Sim. To be whisked to sleep by such
+    a strong muscular\u2026 uh I\u2019ll stop now."
   textSpeed: 0
 --- !u!114 &-6597037909524162725
 MonoBehaviour:
@@ -3751,7 +3767,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "It\u2019s wonderful! Wish we could have it year round!"
   textSpeed: 0
 --- !u!114 &-6431527729911167006
 MonoBehaviour:
@@ -3852,15 +3868,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &-6429186416931809676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3889,10 +3905,7 @@ MonoBehaviour:
       _node: {fileID: -6429186416931809676}
       _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
-      connections:
-      - fieldName: Answers 2
-        node: {fileID: -4083468069723088549}
-        reroutePoints: []
+      connections: []
       _direction: 0
       _connectionType: 0
       _typeConstraint: 0
@@ -3964,10 +3977,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4017,7 +4030,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Ah, I prefer to keep my sights on the arts. '
   textSpeed: 0
 --- !u!114 &-6346913269826161735
 MonoBehaviour:
@@ -4122,10 +4135,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'How do you guys feel about hiking? I love touching grass! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4235,10 +4248,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'This punch is lovely. The flavors mix together quite excellently.   '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4288,7 +4301,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - So beautiful. I do love a good classical song to sooth my soul.
   textSpeed: 0
 --- !u!114 &-6178158000303438382
 MonoBehaviour:
@@ -4389,15 +4402,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Video Games
+  - Anime
+  - Hiking
 --- !u!114 &-6146410616686268025
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4441,7 +4454,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Not at all. Aren\u2019t you allergic as well? Perhaps those sparkles are the
+    last of your brain cells trying to die."
   textSpeed: 0
 --- !u!114 &-5685944023384104025
 MonoBehaviour:
@@ -4486,7 +4500,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - The band is quite good at its craft.
   textSpeed: 0
 --- !u!114 &-5650977029203774073
 MonoBehaviour:
@@ -4591,10 +4605,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4644,7 +4658,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I\u2019m too *yaaaaaawn* busy for such things"
   textSpeed: 0
 --- !u!114 &-5629470776936994063
 MonoBehaviour:
@@ -4689,7 +4703,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice. Why are you trying to lead me away?
   textSpeed: 0
 --- !u!114 &-5413842565988400870
 MonoBehaviour:
@@ -4823,7 +4837,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-5264591789793093177
@@ -4869,7 +4883,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It *ACHOO* does
   textSpeed: 0
 --- !u!114 &-5263447293738366649
 MonoBehaviour:
@@ -4974,10 +4988,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5087,10 +5102,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5196,15 +5211,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Video Games
+  - Anime
+  - Hiking
 --- !u!114 &-5190742319254976152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5248,7 +5263,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "It\u2019s hardly tasty enough to be worth having gotten in for."
   textSpeed: 0
 --- !u!114 &-5173630008811372726
 MonoBehaviour:
@@ -5293,7 +5308,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I dabble in some casual play.
   textSpeed: 0
 --- !u!114 &-5099756358701589509
 MonoBehaviour:
@@ -5398,10 +5413,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5451,7 +5466,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' I *ACHOO* personally preferred the bass player, but the band was *ACHOO* nice
+    overall.'
   textSpeed: 0
 --- !u!114 &-5086137963969695767
 MonoBehaviour:
@@ -5556,10 +5572,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5609,7 +5626,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "They\u2019re too sweet for me. The sugar and almond nearly burns!"
   textSpeed: 0
 --- !u!114 &-5039816317458455478
 MonoBehaviour:
@@ -5714,10 +5731,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5767,7 +5784,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Champagne is quite refined isn\u2019t *ACHOO* it?"
   textSpeed: 0
 --- !u!114 &-4991705789560085662
 MonoBehaviour:
@@ -5812,7 +5829,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - My favorite! I simply had to come just for them!
   textSpeed: 0
 --- !u!114 &-4985739762559061814
 MonoBehaviour:
@@ -5857,7 +5874,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh both are lovely but I must admit I do quite enjoy Rock and Roll. The highs
+    of emotion are *hic* so thrilling.
   textSpeed: 0
 --- !u!114 &-4918979551280656751
 MonoBehaviour:
@@ -5902,7 +5920,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I suppose he was talented enough for a saxophone player.
   textSpeed: 0
 --- !u!114 &-4898921226515152713
 MonoBehaviour:
@@ -6007,10 +6025,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -6116,15 +6134,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &-4767333716405773253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6168,7 +6186,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent! Though I suspect the
+    paparazzi have been following me any time i leave the house."
   textSpeed: 0
 --- !u!114 &-4723957337496951118
 MonoBehaviour:
@@ -6213,7 +6232,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' I suppose it *yawwwwwwwwn* does'
   textSpeed: 0
 --- !u!114 &-4603166298323268477
 MonoBehaviour:
@@ -6318,10 +6337,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -6371,7 +6390,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Ohhhh, yes! I prefer to spectate, but goodness, athletes are fun to watch. I
+    take it you participate in a few, given your physique?
   textSpeed: 0
 --- !u!114 &-4565587771099746205
 MonoBehaviour:
@@ -6416,7 +6436,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Didn\u2019t you say you were allergic?"
   textSpeed: 0
 --- !u!114 &-4558110109921127060
 MonoBehaviour:
@@ -6461,7 +6481,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - So beautiful. *yaaaaaaaaaaawn* I do love a good classical song to soothe my soul.
   textSpeed: 0
 --- !u!114 &-4485958854748188733
 MonoBehaviour:
@@ -6506,7 +6526,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - " I must keep peak physical form, so it\u2019s excellent! "
   textSpeed: 0
 --- !u!114 &-4378238493668484445
 MonoBehaviour:
@@ -6551,7 +6571,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I suppose.
   textSpeed: 0
 --- !u!114 &-4200373723822041438
 MonoBehaviour:
@@ -6596,7 +6616,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - " I\u2019d argue this composition is just Terribly *hic* boring, isn\u2019t it?
+    It\u2019s so uninspired!"
   textSpeed: 0
 --- !u!114 &-4198481507225513348
 MonoBehaviour:
@@ -6641,7 +6662,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Not at all.*ACHOO* Aren\u2019t you allergic as well? "
   textSpeed: 0
 --- !u!114 &-4125679510521204094
 MonoBehaviour:
@@ -6686,7 +6707,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I must admit *ACHOO* I quite enjoy a good dating Sim.
   textSpeed: 0
 --- !u!114 &-4104490841885985143
 MonoBehaviour:
@@ -6731,7 +6752,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Don't watch much, if I\u2019m honest."
   textSpeed: 0
 --- !u!114 &-4083468069723088549
 MonoBehaviour:
@@ -6827,23 +6848,20 @@ MonoBehaviour:
       _node: {fileID: -4083468069723088549}
       _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
-      connections:
-      - fieldName: Ask
-        node: {fileID: -6429186416931809676}
-        reroutePoints: []
+      connections: []
       _direction: 1
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &-4006406201173876070
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6887,7 +6905,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Champagne is quite refined isn\u2019t it? "
   textSpeed: 0
 --- !u!114 &-3977744694629375327
 MonoBehaviour:
@@ -6992,10 +7010,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -7045,7 +7063,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' I must admit I quite enjoy a good dating Sim. '
   textSpeed: 0
 --- !u!114 &-3941521023594567252
 MonoBehaviour:
@@ -7090,7 +7108,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I suppose I have one or *yaaaaaaaawn* two I\u2019ve watched in the past."
   textSpeed: 0
 --- !u!114 &-3927528781944866346
 MonoBehaviour:
@@ -7135,7 +7153,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice.
   textSpeed: 0
 --- !u!114 &-3925578963792009329
 MonoBehaviour:
@@ -7180,7 +7198,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Must have cost them a fortune!
   textSpeed: 0
 --- !u!114 &-3856011225435363231
 MonoBehaviour:
@@ -7225,7 +7243,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Could be worse, could be better. *yaaaaaaaaaawn*
   textSpeed: 0
 --- !u!114 &-3845111360737393108
 MonoBehaviour:
@@ -7326,15 +7344,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &-3695768975302334682
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7378,7 +7396,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "It\u2019s wonderful! Wish we could have it year round!"
   textSpeed: 0
 --- !u!114 &-3695572951296887017
 MonoBehaviour:
@@ -7479,15 +7497,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &-3665268407775709738
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7531,7 +7549,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' I must say it is not too interesting of a composition to me. Makes me wonder
+    if they are truly musicians to be playing such. '
   textSpeed: 0
 --- !u!114 &-3634671791739696178
 MonoBehaviour:
@@ -7636,10 +7655,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -7689,7 +7708,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Don't watch much if I\u2019m honest."
   textSpeed: 0
 --- !u!114 &-3564081774839616789
 MonoBehaviour:
@@ -7734,7 +7753,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is *ACHOO* nice.
   textSpeed: 0
 --- !u!114 &-3438046031450347849
 MonoBehaviour:
@@ -7749,7 +7768,7 @@ MonoBehaviour:
   m_Name: Likes And Dislikes
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 3976, y: 632}
+  position: {x: 3976, y: 664}
   ports:
     keys:
     - Ask
@@ -7839,10 +7858,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -7892,7 +7911,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "This is more mediocre, I\u2019d say. Not bad, for the effort it took to arrive
+    tonight."
   textSpeed: 0
 --- !u!114 &-3370941182327138292
 MonoBehaviour:
@@ -7997,10 +8017,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -8050,7 +8071,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - On the contrary, I find it overpoweringly sweet. To each their own, I suppose.
   textSpeed: 0
 --- !u!114 &-3287998346306334630
 MonoBehaviour:
@@ -8140,7 +8161,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - The band is quite good at its craft.
   textSpeed: 0
 --- !u!114 &-3246106263795067044
 MonoBehaviour:
@@ -8185,7 +8206,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "It\u2019s absolutely delightful! It tastes all the better for being free."
   textSpeed: 0
 --- !u!114 &-3196697998331348712
 MonoBehaviour:
@@ -8230,7 +8251,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I am quite partial to romance series though I did not expect such enthusiasm
+    for the medium to come from you.
   textSpeed: 0
 --- !u!114 &-3163775395980178366
 MonoBehaviour:
@@ -8275,7 +8297,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Ohhhh, yes! I prefer to spectate, but goodness, athletes are fun to watch. '
   textSpeed: 0
 --- !u!114 &-3130312320693511002
 MonoBehaviour:
@@ -8320,7 +8342,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Yes they do. I must say I\u2019m not sure why. These pieces are mediocre at
+    best."
   textSpeed: 0
 --- !u!114 &-3079706090751981675
 MonoBehaviour:
@@ -8365,7 +8388,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - My constitution does not go well with the outdoors. Your constitution seems to
+    not ge well with those colors your wearing.
   textSpeed: 0
 --- !u!114 &-3008686432117918321
 MonoBehaviour:
@@ -8410,7 +8434,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'I must admit I quite enjoy a good dating sim. '
   textSpeed: 0
 --- !u!114 &-2989503972136464045
 MonoBehaviour:
@@ -8455,7 +8479,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - On the contrary, *hic* I find it overpoweringly sweet. Blech!
   textSpeed: 0
 --- !u!114 &-2980028075918709360
 MonoBehaviour:
@@ -8560,10 +8584,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -8613,7 +8637,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' Ah, I prefer to keep my sights on the arts. '
   textSpeed: 0
 --- !u!114 &-2898426158227349961
 MonoBehaviour:
@@ -8658,7 +8682,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - My favorite! I simply had to come just for them!
   textSpeed: 0
 --- !u!114 &-2883822417043213425
 MonoBehaviour:
@@ -8703,7 +8727,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Ugh. I\u2019m grateful we have no shows in the greek theater this season."
   textSpeed: 0
 --- !u!114 &-2758601917451202762
 MonoBehaviour:
@@ -8807,15 +8831,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &-2751123712077018815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8859,7 +8883,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Didn\u2019t you say you were allergic?"
   textSpeed: 0
 --- !u!114 &-2648239407041922870
 MonoBehaviour:
@@ -8964,10 +8988,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now!"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9017,7 +9041,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Not at all. Aren\u2019t you allergic as well? Stick to the plot sir!"
   textSpeed: 0
 --- !u!114 &-2617221232078458550
 MonoBehaviour:
@@ -9062,7 +9086,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I\u2019m too busy for such things. Perhaps if you played less you could find
+    an actual suit to get an actual date."
   textSpeed: 0
 --- !u!114 &-2608696029903430778
 MonoBehaviour:
@@ -9167,10 +9192,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9220,7 +9245,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'My constitution does not go well with the outdoors. '
   textSpeed: 0
 --- !u!114 &-2526129212832602936
 MonoBehaviour:
@@ -9321,15 +9346,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &-2462535940733796912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9434,9 +9459,9 @@ MonoBehaviour:
       _typeConstraint: 0
       _dynamic: 1
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9546,10 +9571,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9599,7 +9624,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - This classical deary wounds my *ACHOO* heart when I most need to be l- l *ACHOO*
   textSpeed: 0
 --- !u!114 &-2273150519076488273
 MonoBehaviour:
@@ -9733,7 +9758,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-2220184265992283147
@@ -9839,10 +9864,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think? "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9892,7 +9917,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Yes, I suppose it can be nice to see experts perform at their best in any field.
   textSpeed: 0
 --- !u!114 &-2171893533486553351
 MonoBehaviour:
@@ -9997,10 +10022,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10110,10 +10135,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - " I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10223,10 +10248,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10276,7 +10302,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I do not share your taste it seems - which is quite surprising from your general
+    demeanor, may I say.
   textSpeed: 0
 --- !u!114 &-2007827800468781094
 MonoBehaviour:
@@ -10321,7 +10348,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is *yaaaaaaaaaawn* nice.
   textSpeed: 0
 --- !u!114 &-1866799036492903605
 MonoBehaviour:
@@ -10366,7 +10393,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Isn\u2019t it lovely! Such beauty! Such elegance!  "
   textSpeed: 0
 --- !u!114 &-1860177677579924539
 MonoBehaviour:
@@ -10411,7 +10438,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Don't watch much, if I\u2019m honest."
   textSpeed: 0
 --- !u!114 &-1834866325316797450
 MonoBehaviour:
@@ -10456,7 +10483,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Quite, but didn\u2019t you say you were allergic? "
   textSpeed: 0
 --- !u!114 &-1827902709040193804
 MonoBehaviour:
@@ -10591,7 +10618,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-1774106252419275620
@@ -10697,10 +10724,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10750,7 +10778,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Too sweet for me. And I will not be trying any no matter what you attempt to
+    convince me with.
   textSpeed: 0
 --- !u!114 &-1653478756922575191
 MonoBehaviour:
@@ -10855,10 +10884,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10908,7 +10937,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Must have *yaaaaaaaawn* cost them a fortune!
   textSpeed: 0
 --- !u!114 &-1582372301036772460
 MonoBehaviour:
@@ -11013,10 +11042,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11066,7 +11095,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Such a *hic* basic form of art. Theater is much more refined.
   textSpeed: 0
 --- !u!114 &-1489850355460349503
 MonoBehaviour:
@@ -11111,7 +11140,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Ohhhh, yes! I prefer to spectate, but goodness, athletes are fun to watch.
   textSpeed: 0
 --- !u!114 &-1485115658054941252
 MonoBehaviour:
@@ -11156,7 +11185,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh, absolutely! *yaaawn* He had such passion.
   textSpeed: 0
 --- !u!114 &-1423800364966706114
 MonoBehaviour:
@@ -11257,15 +11286,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &-1408615724643849011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11369,10 +11398,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11422,7 +11451,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - What a delightful medley of flavors!
   textSpeed: 0
 --- !u!114 &-1388403181768716269
 MonoBehaviour:
@@ -11527,10 +11556,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11580,7 +11610,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent! "
   textSpeed: 0
 --- !u!114 &-1230170082795414176
 MonoBehaviour:
@@ -11625,7 +11655,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I suppose he was talented enough for a saxophone player.
   textSpeed: 0
 --- !u!114 &-1223476877575238843
 MonoBehaviour:
@@ -11670,7 +11700,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh, absolutely! They had *ACHOO* such passion!
   textSpeed: 0
 --- !u!114 &-1202321644625323299
 MonoBehaviour:
@@ -11775,10 +11805,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11828,7 +11859,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'The drinks have been passable, but only just. '
   textSpeed: 0
 --- !u!114 &-1172012138887795339
 MonoBehaviour:
@@ -11933,10 +11964,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11986,7 +12018,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Classical is much better I\u2019d say."
   textSpeed: 0
 --- !u!114 &-935714313463304704
 MonoBehaviour:
@@ -12091,10 +12123,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now!"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12144,7 +12176,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Too sweet for me. '
   textSpeed: 0
 --- !u!114 &-801247619316462691
 MonoBehaviour:
@@ -12189,7 +12221,9 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'I am quite partial to romance series! *hic* The thrills of love are always *hic*
+    captivating to witness. I did not expect such enthusiasm for the medium to come
+    from you. '
   textSpeed: 0
 --- !u!114 &-756935586472770015
 MonoBehaviour:
@@ -12234,7 +12268,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'My constitution does not go well with the outdoors. '
   textSpeed: 0
 --- !u!114 &-668480949622137564
 MonoBehaviour:
@@ -12339,10 +12373,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12392,7 +12426,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - The band is quite good at its craft.
   textSpeed: 0
 --- !u!114 &-622243236879307513
 MonoBehaviour:
@@ -12437,7 +12471,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I am quite partial to romance series though I did not expect such enthusiasm
+    for the medium to come from you.
   textSpeed: 0
 --- !u!114 &-574621045834377687
 MonoBehaviour:
@@ -12482,7 +12517,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I found that he overpowered the other musicians. The classical band on stage
+    now is more balanced.
   textSpeed: 0
 --- !u!114 &-540932494462771643
 MonoBehaviour:
@@ -12527,7 +12563,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak *ACHOO* physical form, so it\u2019s excellent!"
   textSpeed: 0
 --- !u!114 &-521159030989876588
 MonoBehaviour:
@@ -12572,7 +12608,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Too *ACHOO* busy for such things
   textSpeed: 0
 --- !u!114 &-405254953336185324
 MonoBehaviour:
@@ -12617,7 +12653,9 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I\u2019m personally FAR happier with the classical band on stage now. I\u2019d
+    also be happier if you would keep those ruffles flat. Goodness they are going
+    everywhere."
   textSpeed: 0
 --- !u!114 &-387908151404350939
 MonoBehaviour:
@@ -12662,7 +12700,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "It\u2019s wonderful! Wish we could have it year round!"
   textSpeed: 0
 --- !u!114 &-326082100221022555
 MonoBehaviour:
@@ -12767,10 +12805,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now!"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12820,7 +12858,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - They are adequate .
   textSpeed: 0
 --- !u!114 &-145499068572205018
 MonoBehaviour:
@@ -12865,7 +12903,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - What a delightful medley of flavors!
   textSpeed: 0
 --- !u!114 &-130192764525093566
 MonoBehaviour:
@@ -12966,15 +13004,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &-47000489202577742
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13018,7 +13056,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice.
   textSpeed: 0
 --- !u!114 &11400000
 MonoBehaviour:
@@ -13533,10 +13571,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -13586,7 +13624,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Cla*ACHOO*ssical is much better I\u2019d say."
   textSpeed: 0
 --- !u!114 &156048511424902867
 MonoBehaviour:
@@ -13631,7 +13669,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Mmm, it\u2019s more mediocre, I\u2019d say."
   textSpeed: 0
 --- !u!114 &173542340631537586
 MonoBehaviour:
@@ -13732,15 +13770,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Video Games
+  - Anime
+  - Hiking
 --- !u!114 &230921236339456579
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13784,7 +13822,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "My constitution does not go well with the outdoors. Don\u2019t want to give
+    the paparazzi any more opportunities to sneak up on me anyhow."
   textSpeed: 0
 --- !u!114 &263952822653426109
 MonoBehaviour:
@@ -13829,7 +13868,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - What a *ACHOO* delightful medley of flavors!
   textSpeed: 0
 --- !u!114 &351686826981943235
 MonoBehaviour:
@@ -13934,10 +13973,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -13987,7 +14026,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Yes they do. I must say I\u2019m not sure why. These pieces are mediocre at
+    best. I feel I chose the wrong establishment to impose upon."
   textSpeed: 0
 --- !u!114 &525146015314796854
 MonoBehaviour:
@@ -14092,10 +14132,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14145,7 +14186,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - They are adequate.
   textSpeed: 0
 --- !u!114 &595311035782434806
 MonoBehaviour:
@@ -14250,10 +14291,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14303,7 +14344,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh, absolutely! He had such passion.
   textSpeed: 0
 --- !u!114 &643842341459522005
 MonoBehaviour:
@@ -14348,7 +14389,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Must have cost them a fortune!
   textSpeed: 0
 --- !u!114 &644814027375026166
 MonoBehaviour:
@@ -14393,7 +14434,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Quite, *yaaaaaaaaaaawn* but didn\u2019t you say you were allergic? "
   textSpeed: 0
 --- !u!114 &724025474383086388
 MonoBehaviour:
@@ -14498,10 +14539,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'So, uh.. What types of games do you like? '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14551,7 +14592,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I\u2019m too busy for such things. Alas *hic*, the theatre claims the time of
+    all who dwell in her wings!"
   textSpeed: 0
 --- !u!114 &776259562950248673
 MonoBehaviour:
@@ -14652,15 +14694,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Video Games
+  - Anime
+  - Hiking
 --- !u!114 &801994165381321098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14704,7 +14746,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "*ACHOO* Didn\u2019t you say you were allergic?"
   textSpeed: 0
 --- !u!114 &804935221107335953
 MonoBehaviour:
@@ -14749,7 +14791,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I suppose I have one or two I\u2019ve watched in the past."
   textSpeed: 0
 --- !u!114 &845789823633580550
 MonoBehaviour:
@@ -14794,7 +14836,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Classical is much better I\u2019d say. I wonder if I am the only one to sneak
+    in with an attitude like that."
   textSpeed: 0
 --- !u!114 &849188798931629164
 MonoBehaviour:
@@ -14899,10 +14942,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15012,10 +15056,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15065,7 +15110,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Ah, I prefer to keep my sights on the arts. '
   textSpeed: 0
 --- !u!114 &984481825407096368
 MonoBehaviour:
@@ -15110,7 +15155,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Ugh. *yaaaaaaaaawn*  I\u2019m grateful we have no shows in the greek theater
+    this season."
   textSpeed: 0
 --- !u!114 &1048476654784624497
 MonoBehaviour:
@@ -15155,7 +15201,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Champagne is quite refined isn\u2019t it? *Yaaaaaaaaaaaawn*"
   textSpeed: 0
 --- !u!114 &1226670870415139641
 MonoBehaviour:
@@ -15260,10 +15306,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15313,7 +15360,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Such a basic form of art.
   textSpeed: 0
 --- !u!114 &1247436085941733741
 MonoBehaviour:
@@ -15358,7 +15405,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Yes it\u2019s lovely! I\u2019ve been keeping a distance to I don\u2019t *ACHOO*
+    \u2026 sneeze on them."
   textSpeed: 0
 --- !u!114 &1258483574172342098
 MonoBehaviour:
@@ -15403,7 +15451,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh both are lovely but I must admit I do quite enjoy Rock and Roll.
   textSpeed: 0
 --- !u!114 &1521387032508769549
 MonoBehaviour:
@@ -15504,15 +15552,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &1530620292404933740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15556,7 +15604,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' I am quite partial to romance series though I did not expect such enthusiasm
+    for the medium to come from you.'
   textSpeed: 0
 --- !u!114 &1567173218170255863
 MonoBehaviour:
@@ -15601,7 +15650,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "It\u2019s wonderful! Wish we could have it year round!"
   textSpeed: 0
 --- !u!114 &1640631105102406924
 MonoBehaviour:
@@ -15646,7 +15695,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'They are adequate '
   textSpeed: 0
 --- !u!114 &1668471861353522949
 MonoBehaviour:
@@ -15751,10 +15800,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15804,7 +15853,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - " I\u2019m personally *ACHOO* FAR happier with the classical band on stage now. "
   textSpeed: 0
 --- !u!114 &1711341418683029095
 MonoBehaviour:
@@ -15909,10 +15958,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16022,10 +16072,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16135,10 +16185,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16188,7 +16239,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice. Are you really *hic* so enthusiastic about it?
   textSpeed: 0
 --- !u!114 &2029662549508060070
 MonoBehaviour:
@@ -16233,7 +16284,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I am quite partial to romance series, though I did not expect such enthusiasm
+    for the medium to come from you.
   textSpeed: 0
 --- !u!114 &2048674392238430496
 MonoBehaviour:
@@ -16278,7 +16330,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - " I must keep peak physical form, so it\u2019s excellent! "
   textSpeed: 0
 --- !u!114 &2120387779119292702
 MonoBehaviour:
@@ -16383,10 +16435,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16436,7 +16488,9 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Ugh. I\u2019m grateful we have no shows in the greek theater this season. Just
+    like I\u2019m grateful to have my beautiful feathers rather than that spindly
+    thing you have behind you."
   textSpeed: 0
 --- !u!114 &2229932614368722471
 MonoBehaviour:
@@ -16481,7 +16535,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Could be worse could be better.
   textSpeed: 0
 --- !u!114 &2400707605641595798
 MonoBehaviour:
@@ -16526,7 +16580,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must say it is not too interesting of a composition to me. Just like how that
+    basic suit of yours isn\u2019t too interesting."
   textSpeed: 0
 --- !u!114 &2470174783685810038
 MonoBehaviour:
@@ -16571,7 +16626,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must disagree. I also disagree with the styling you\u2019ve chosen for those
+    antenna of yours. You really must go to a professional next time."
   textSpeed: 0
 --- !u!114 &2497857371250466956
 MonoBehaviour:
@@ -16676,10 +16732,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'This punch is lovely. The flavors mix together quite excellently.  '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16729,7 +16785,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Oh I idolized Tamaki from Ouron High School Host Club growing up! So Charasmatic! '
   textSpeed: 0
 --- !u!114 &2559053815191164338
 MonoBehaviour:
@@ -16774,7 +16830,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Too sweeeee- *ACHOO* sweet for me.
   textSpeed: 0
 --- !u!114 &2588706473693513281
 MonoBehaviour:
@@ -16819,7 +16875,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Classical is much *yawwwwwwwwwn* better I\u2019d say. "
   textSpeed: 0
 --- !u!114 &2610122360016057108
 MonoBehaviour:
@@ -16864,7 +16920,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must say, I\u2019m not sure why they bothered. These pieces are utterly tasteless!
+    It\u2019s just so *hic* gaudy."
   textSpeed: 0
 --- !u!114 &2764062110055637359
 MonoBehaviour:
@@ -16879,7 +16936,7 @@ MonoBehaviour:
   m_Name: Dialog Segment
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 4792, y: 632}
+  position: {x: 4792, y: 728}
   ports:
     keys:
     - input
@@ -16909,7 +16966,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I\u2019m too busy for such things."
   textSpeed: 0
 --- !u!114 &2783854728426150483
 MonoBehaviour:
@@ -16924,7 +16981,7 @@ MonoBehaviour:
   m_Name: Dialog Segment
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 4520, y: 632}
+  position: {x: 4520, y: 728}
   ports:
     keys:
     - input
@@ -16954,7 +17011,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I dabble in some casual play.
   textSpeed: 0
 --- !u!114 &2818074130934079677
 MonoBehaviour:
@@ -17059,10 +17116,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now!"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17112,7 +17169,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - The band is quite good at its craft.
   textSpeed: 0
 --- !u!114 &2946292986883437886
 MonoBehaviour:
@@ -17243,7 +17300,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - Good evening.
+  - Why HELLO friend! How are you doing on the LOVELY evening?
   textSpeed: 0
   quirk: 000000000100000002000000030000000400000005000000
 --- !u!114 &2980212668399375656
@@ -17349,10 +17406,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17461,15 +17518,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &3002019185982057075
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17573,10 +17630,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17626,7 +17683,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - So beautiful. I do love a good classical song to soothe my soul.
   textSpeed: 0
 --- !u!114 &3132082205069209808
 MonoBehaviour:
@@ -17671,7 +17728,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Ah, it\u2019s so beautiful! I do love a good classical song to soothe my soul."
   textSpeed: 0
 --- !u!114 &3195187966109534123
 MonoBehaviour:
@@ -17772,15 +17829,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jaazz
+  - Punch
+  - nime
 --- !u!114 &3299253093908794965
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17880,15 +17937,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &3346207689259658187
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17932,7 +17989,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Hardly. If you\u2019re so drawn to cute I don\u2019t know why you massacred
+    your adorable fluffy fur into\u2026 that."
   textSpeed: 0
 --- !u!114 &3385047602189567640
 MonoBehaviour:
@@ -18066,7 +18124,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &3392873175172133313
@@ -18112,7 +18170,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Too sweet for me. Wasn\u2019t worth the trouble of getting in here."
   textSpeed: 0
 --- !u!114 &3423936252075250191
 MonoBehaviour:
@@ -18157,7 +18215,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I found that he overpowered the other musicians. The classical band on stage
+    now is more balanced.
   textSpeed: 0
 --- !u!114 &3490545570915243669
 MonoBehaviour:
@@ -18202,7 +18261,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - My constitution does not go well with the outdoors. *yawwwwwwn*
   textSpeed: 0
 --- !u!114 &3544117551747035403
 MonoBehaviour:
@@ -18337,7 +18396,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &3741412473403307842
@@ -18383,7 +18442,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I suppose it can be nice to *hic* see experts perform at their best in any field.
   textSpeed: 0
 --- !u!114 &3764960166383716545
 MonoBehaviour:
@@ -18428,7 +18487,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "My constitution does not go well with the outdoors. Just like how those shoes
+    don\u2019t go with that outfit. Who let you out of the house like that?"
   textSpeed: 0
 --- !u!114 &3767767314024898327
 MonoBehaviour:
@@ -18473,7 +18533,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - They certainly do.
   textSpeed: 0
 --- !u!114 &3777091142157420443
 MonoBehaviour:
@@ -18518,7 +18578,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s *yaaaaaaaawn* excellent! "
   textSpeed: 0
 --- !u!114 &3798715521339101718
 MonoBehaviour:
@@ -18623,10 +18683,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -18676,7 +18736,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent! "
   textSpeed: 0
 --- !u!114 &3957264627020104303
 MonoBehaviour:
@@ -18721,7 +18781,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Isn\u2019t it lovely! Such beauty! Such elegance! Can\u2019t you feel a stirring
+    in your very soul as you study the composition?"
   textSpeed: 0
 --- !u!114 &3962068819156233109
 MonoBehaviour:
@@ -18766,7 +18827,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It soothes the soul of my aching *ACHOO* body. Classical music *ACHOO* was sent
+    to us as a gift for the betterment of humanity.
   textSpeed: 0
 --- !u!114 &4044107842207378256
 MonoBehaviour:
@@ -18811,7 +18873,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - So beautiful. I do love a good classical song to sooth my soul.
   textSpeed: 0
 --- !u!114 &4142952045829714406
 MonoBehaviour:
@@ -18856,7 +18918,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Must have cost them a fortune!
   textSpeed: 0
 --- !u!114 &4185566970372975819
 MonoBehaviour:
@@ -18961,10 +19023,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19014,7 +19076,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "*ACHOO* *ACHOO* It\u2019s fine. *ACHOO*"
   textSpeed: 0
 --- !u!114 &4473773066792604005
 MonoBehaviour:
@@ -19059,7 +19121,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Quite, but didn\u2019t you say you were allergic? "
   textSpeed: 0
 --- !u!114 &4498810371834024254
 MonoBehaviour:
@@ -19104,7 +19166,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice.
   textSpeed: 0
 --- !u!114 &4501592778207036695
 MonoBehaviour:
@@ -19149,7 +19211,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Champagne is not to my *ACHOO* taste. The bubbles make me *ACHOO*...sneeze.
   textSpeed: 0
 --- !u!114 &4665857450592781891
 MonoBehaviour:
@@ -19194,7 +19256,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Yes, but do watch your drink. You never know who may be lurking about, and the
+    press aren\u2019t shy about publicizing unfortunate moments."
   textSpeed: 0
 --- !u!114 &4758064626333632279
 MonoBehaviour:
@@ -19239,7 +19302,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "My favorite! I simply had to come just for them! So sweet and delicate in flavor,
+    so pastel and smooth in visage\u2026 aaaah, they\u2019re perfect."
   textSpeed: 0
 --- !u!114 &4886555317185259547
 MonoBehaviour:
@@ -19344,10 +19408,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19397,7 +19462,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Didn\u2019t you tell that waiter earlier that you were allergic?"
   textSpeed: 0
 --- !u!114 &5042259849567073509
 MonoBehaviour:
@@ -19502,10 +19567,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19614,15 +19679,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &5106568896773909796
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19666,7 +19731,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Quite, but didn\u2019t you say you were *hic* allergic *hic* ? "
   textSpeed: 0
 --- !u!114 &5152695672171634276
 MonoBehaviour:
@@ -19711,7 +19776,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "They\u2019re *achoo* fine. Very cute."
   textSpeed: 0
 --- !u!114 &5165105711430214201
 MonoBehaviour:
@@ -19816,10 +19881,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'This punch is lovely. The flavors mix together quite excellently.  '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19869,7 +19934,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I suppose I have one or two I\u2019ve watched in the past."
   textSpeed: 0
 --- !u!114 &5227397665911823938
 MonoBehaviour:
@@ -19914,7 +19979,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I must say it is not too interesting of a composition to *yawwwwwwwwwwwwwn* me.
   textSpeed: 0
 --- !u!114 &5252465563098433179
 MonoBehaviour:
@@ -19959,7 +20024,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Such a basic form of art. *yaaaaaawn* Theater is much more refined.
   textSpeed: 0
 --- !u!114 &5293448498038824629
 MonoBehaviour:
@@ -20004,7 +20069,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I *ACHOO* dabble in some casual play.
   textSpeed: 0
 --- !u!114 &5306521991609911738
 MonoBehaviour:
@@ -20049,7 +20114,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It *hic* nice.
   textSpeed: 0
 --- !u!114 &5371460895704661801
 MonoBehaviour:
@@ -20094,7 +20159,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I dabble in some casual play.
   textSpeed: 0
 --- !u!114 &5403405464491931532
 MonoBehaviour:
@@ -20139,7 +20204,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Could be worse, could be better.
   textSpeed: 0
 --- !u!114 &5441627617339722300
 MonoBehaviour:
@@ -20184,7 +20249,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Don't watch much, if I\u2019m honest."
   textSpeed: 0
 --- !u!114 &5522183385162625783
 MonoBehaviour:
@@ -20229,7 +20294,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Not at all. Aren\u2019t you allergic as well? "
   textSpeed: 0
 --- !u!114 &5572274373191540101
 MonoBehaviour:
@@ -20274,7 +20339,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "It\u2019s wonderful! It reminds me of so many happy memories\u2026 it\u2019s
+    enough to bring a tear to your eye, no?"
   textSpeed: 0
 --- !u!114 &5605705031845660731
 MonoBehaviour:
@@ -20319,7 +20385,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Oh I idolized Tamaki from Ouron High School Host Club growing up! So *hic* Charasmatic! '
   textSpeed: 0
 --- !u!114 &5623428532540786184
 MonoBehaviour:
@@ -20364,7 +20430,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I suppose I have one or two I\u2019ve watched in the past."
   textSpeed: 0
 --- !u!114 &5630557157012263131
 MonoBehaviour:
@@ -20409,7 +20475,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - My *ACHOO* favorite. I simply had to *ACHOO* come just for them!
   textSpeed: 0
 --- !u!114 &5635849000913130580
 MonoBehaviour:
@@ -20454,7 +20520,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "They\u2019re fine. Very cute."
   textSpeed: 0
 --- !u!114 &5742769445532865310
 MonoBehaviour:
@@ -20499,7 +20565,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - On the contrary, I find it overpoweringly sweet. *yaaaaawwn* To each their own,
+    I suppose.
   textSpeed: 0
 --- !u!114 &5798000939385109207
 MonoBehaviour:
@@ -20604,10 +20671,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20716,15 +20784,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &5866458869812574708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20738,7 +20806,7 @@ MonoBehaviour:
   m_Name: Likes And Dislikes
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 1048, y: 1320}
+  position: {x: 1064, y: 1336}
   ports:
     keys:
     - Ask
@@ -20828,10 +20896,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20941,10 +21009,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20994,7 +21063,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Quite, but I thought I saw you turn down a plate earlier for\u2026 allergies,
+    was it? "
   textSpeed: 0
 --- !u!114 &5924147536508728329
 MonoBehaviour:
@@ -21039,7 +21109,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - '*ACHOO* Yes I- *ACHOO*'
   textSpeed: 0
 --- !u!114 &5936055792043542721
 MonoBehaviour:
@@ -21144,10 +21214,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "The saxophone player in the jazz band they had out earlier was incredibly talented,
+    don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21197,7 +21268,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Must have cost them a fortune! '
   textSpeed: 0
 --- !u!114 &6010402907863664354
 MonoBehaviour:
@@ -21242,7 +21313,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Ah, I prefer to keep my sights on the arts. *hic* My eyes are drawn to the stage
+    over the field! '
   textSpeed: 0
 --- !u!114 &6017070011837669457
 MonoBehaviour:
@@ -21287,7 +21359,9 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent! To improve oneself while
+    enjoying nature\u2026 wonderful indeed! You *hic* didn\u2019t seem the sort,
+    though."
   textSpeed: 0
 --- !u!114 &6079909129592029433
 MonoBehaviour:
@@ -21388,15 +21462,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &6083031346573029118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21500,10 +21574,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21609,15 +21684,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &6092228000814195572
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21661,7 +21736,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'My constitution does not go well with the outdoors. '
   textSpeed: 0
 --- !u!114 &6125926001274742925
 MonoBehaviour:
@@ -21766,10 +21841,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21879,10 +21954,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - 'This punch is lovely. The flavors mix together quite excellently.  '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21932,7 +22007,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - While the quality is mediocre, it suits my purposes just fine.
   textSpeed: 0
 --- !u!114 &6257128211086200102
 MonoBehaviour:
@@ -21977,7 +22052,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh both are lovely but I must admit I do quite enjoy Rock and Roll.
   textSpeed: 0
 --- !u!114 &6259513432505950343
 MonoBehaviour:
@@ -22022,7 +22097,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Quite, but *ACHOO* didn\u2019t you say you were allergic? "
   textSpeed: 0
 --- !u!114 &6412932653472953843
 MonoBehaviour:
@@ -22067,7 +22142,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Ohhhh, yes! *hic* I prefer to spectate, but goodness, athletes are fun to *hic*
+    watch. And the passion of getting caught up in the energy of a crowd! '
   textSpeed: 0
 --- !u!114 &6458924904576491435
 MonoBehaviour:
@@ -22112,7 +22188,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I\u2019m too busy for such things."
   textSpeed: 0
 --- !u!114 &6497831443431698250
 MonoBehaviour:
@@ -22157,7 +22233,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Champagne is not to my taste. Just like that drab plain dress of yours.
   textSpeed: 0
 --- !u!114 &6537240572567394887
 MonoBehaviour:
@@ -22258,15 +22334,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Video Games
+  - Anime
+  - Hiking
 --- !u!114 &6587201448794900141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22310,7 +22386,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice.
   textSpeed: 0
 --- !u!114 &6609176015788350090
 MonoBehaviour:
@@ -22325,7 +22401,7 @@ MonoBehaviour:
   m_Name: Dialog Segment
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 4520, y: 1464}
+  position: {x: 4520, y: 1432}
   ports:
     keys:
     - input
@@ -22355,7 +22431,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice.
   textSpeed: 0
 --- !u!114 &6657339023936506545
 MonoBehaviour:
@@ -22459,15 +22535,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &6670625077614632751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22511,7 +22587,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - It is nice.
   textSpeed: 0
 --- !u!114 &6673331487418517066
 MonoBehaviour:
@@ -22612,15 +22688,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &6681983524276614816
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22724,10 +22800,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - This punch is lovely. The flavors mix together quite excellently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -22777,7 +22853,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "My constitution does not go well with the outdoors. Alas *hic*, it\u2019s such
+    a struggle to be delicate as I am."
   textSpeed: 0
 --- !u!114 &6864212489978475746
 MonoBehaviour:
@@ -22822,7 +22899,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'My constitution does not go well with the outdoors. '
   textSpeed: 0
 --- !u!114 &6892225126998818688
 MonoBehaviour:
@@ -22927,10 +23004,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23040,10 +23118,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23093,7 +23171,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh *ACHOO* I idolized Tamaki from Ouron High School *ACHOO* Host Club growing
+    up!
   textSpeed: 0
 --- !u!114 &6981992810799622257
 MonoBehaviour:
@@ -23198,10 +23277,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23251,7 +23330,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Could be worse could be better.
   textSpeed: 0
 --- !u!114 &7066093877270319188
 MonoBehaviour:
@@ -23296,7 +23375,9 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - " I must admit I quite enjoy a good dating Sim. The highs and lows of falling
+    in love with characters so intriguing you\u2019d never meet their like in person\u2026
+    it\u2019s gripping!"
   textSpeed: 0
 --- !u!114 &7122724397607639423
 MonoBehaviour:
@@ -23341,7 +23422,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'Oh I idolized Tamaki from Ouron High School Host Club growing up! So Charasmatic! '
   textSpeed: 0
 --- !u!114 &7203171479256034116
 MonoBehaviour:
@@ -23386,7 +23467,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - The drinks here have been absolutely *hic* Delightful. The flavors sing on the
+    tongue so sweetly.
   textSpeed: 0
 --- !u!114 &7203672434320441706
 MonoBehaviour:
@@ -23431,7 +23513,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "While the drinks haven\u2019t been stellar on the tongue, they are *hic* pleasantly
+    strong."
   textSpeed: 0
 --- !u!114 &7204414513870874520
 MonoBehaviour:
@@ -23536,10 +23619,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23589,7 +23672,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I do not share your taste it seems. I had thought you were into more *hic* refined
+    media.
   textSpeed: 0
 --- !u!114 &7228249707145593401
 MonoBehaviour:
@@ -23634,7 +23718,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - '*ACHOO* I prefer to spectate, but goodness, athletes are fun to *ACHOO* watch.'
   textSpeed: 0
 --- !u!114 &7317919456523086243
 MonoBehaviour:
@@ -23679,7 +23763,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I do not share your taste it seems. In neither media nor fashion. How did you
+    make it through the door in that monster of a dress you\u2019re wearing."
   textSpeed: 0
 --- !u!114 &7356449976399253388
 MonoBehaviour:
@@ -23724,7 +23809,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Such a basic form of art. Just like your basic personality.
   textSpeed: 0
 --- !u!114 &7356648637020423988
 MonoBehaviour:
@@ -23769,7 +23854,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "This is more mediocre, I\u2019d say."
   textSpeed: 0
 --- !u!114 &7417974797379157315
 MonoBehaviour:
@@ -23874,10 +23959,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now!"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23927,7 +24012,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Yes, I suppose it can be nice to see experts perform at their best in any field.
+    It\u2019s a shame that such events tend to draw in the paparazzi."
   textSpeed: 0
 --- !u!114 &7420724757735541141
 MonoBehaviour:
@@ -24032,10 +24118,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24085,7 +24172,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I suppose I have one or two I\u2019ve watched in the past."
   textSpeed: 0
 --- !u!114 &7424680010935144571
 MonoBehaviour:
@@ -24190,10 +24277,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24243,7 +24331,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'They are adequate '
   textSpeed: 0
 --- !u!114 &7571886859883675197
 MonoBehaviour:
@@ -24288,7 +24376,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Yes, I suppose it can be nice to see experts perform at their best in any field.
   textSpeed: 0
 --- !u!114 &7586596160167026106
 MonoBehaviour:
@@ -24333,7 +24421,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I dabble in some casual play.
   textSpeed: 0
 --- !u!114 &7644181731464628375
 MonoBehaviour:
@@ -24378,7 +24466,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'They are adequate '
   textSpeed: 0
 --- !u!114 &7701906425092429420
 MonoBehaviour:
@@ -24423,7 +24511,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'The drinks have been passable, but only just. '
   textSpeed: 0
 --- !u!114 &7751784004858873455
 MonoBehaviour:
@@ -24528,10 +24616,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24581,7 +24669,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent!"
   textSpeed: 0
 --- !u!114 &7858267428308029861
 MonoBehaviour:
@@ -24682,15 +24770,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Video Games
+  - Anime
+  - Hiking
 --- !u!114 &7995908225176331622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24794,10 +24882,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24907,10 +24995,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24960,7 +25048,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - What a delightful medley of flavors!
   textSpeed: 0
 --- !u!114 &8054747693171371769
 MonoBehaviour:
@@ -25005,7 +25093,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Such a basic form of art. I must prefer events such as this. I try to go to as
+    many as I possibly can. The masses must be graced with my presence.
   textSpeed: 0
 --- !u!114 &8068175332008512007
 MonoBehaviour:
@@ -25050,7 +25139,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Such a basic *ACHOO* form of art. Theater *ACHOO* is *ACHOO* much more *ACHOO*
+    refined.
   textSpeed: 0
 --- !u!114 &8133810616445127218
 MonoBehaviour:
@@ -25155,10 +25245,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25208,7 +25298,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "They\u2019re fine. Very *hic* cute."
   textSpeed: 0
 --- !u!114 &8157793167870768868
 MonoBehaviour:
@@ -25253,7 +25343,9 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Yes they do. I must say I\u2019m not sure why. These pieces are mediocre at
+    best. Just like those scales of yours. You could due with a spa day or two for
+    maintenance."
   textSpeed: 0
 --- !u!114 &8248864917065508857
 MonoBehaviour:
@@ -25354,15 +25446,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &8298191127744677750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25466,10 +25558,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25519,7 +25611,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Didn\u2019t you say you were *yaaaaaaaaawn* allergic?"
   textSpeed: 0
 --- !u!114 &8412090868267409582
 MonoBehaviour:
@@ -25564,7 +25656,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I suppose he was talented enough for a *yaaaaaawn* saxophone player.
   textSpeed: 0
 --- !u!114 &8441995120598130300
 MonoBehaviour:
@@ -25609,7 +25701,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - I must say it is not too interesting of a composition to me. Perhaps it wasn't
+    worth sneaking in.
   textSpeed: 0
 --- !u!114 &8489342883283066061
 MonoBehaviour:
@@ -25714,10 +25807,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25767,7 +25860,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "While the drinks haven\u2019t been stellar on the tongue, they are pleasantly
+    strong."
   textSpeed: 0
 --- !u!114 &8540406260741033340
 MonoBehaviour:
@@ -25812,7 +25906,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "This is more mediocre, I\u2019d say."
   textSpeed: 0
 --- !u!114 &8553563598218094480
 MonoBehaviour:
@@ -25827,7 +25921,7 @@ MonoBehaviour:
   m_Name: Dialog Segment
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 4264, y: 1464}
+  position: {x: 4264, y: 1432}
   ports:
     keys:
     - input
@@ -25857,7 +25951,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent!"
   textSpeed: 0
 --- !u!114 &8713153103063161012
 MonoBehaviour:
@@ -25902,7 +25996,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - 'I do not share your taste it *ACHOO* seems. '
   textSpeed: 0
 --- !u!114 &8748147348167681790
 MonoBehaviour:
@@ -26003,15 +26097,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &8759884149655446457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26055,7 +26149,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - The drinks here have been absolutely Delightful. The flavors sing on the tongue
+    so sweetly.
   textSpeed: 0
 --- !u!114 &8825140727338097541
 MonoBehaviour:
@@ -26100,7 +26195,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Don't watch much, if I\u2019m honest. "
   textSpeed: 0
 --- !u!114 &8902911025557688680
 MonoBehaviour:
@@ -26145,7 +26240,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - ' I do not share your taste it seems. '
   textSpeed: 0
 --- !u!114 &8924735789672083914
 MonoBehaviour:
@@ -26250,10 +26345,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "You like any animes or manga? I\u2019m super duper into them right now!"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26359,15 +26454,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Jazz
+  - Punch
+  - Anime
 --- !u!114 &9058233756950451116
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26471,10 +26566,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26524,7 +26619,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - Oh  I idolized Tamaki from Ouron High School Host Club growing up! So Charasmatic!
   textSpeed: 0
 --- !u!114 &9106192332850776390
 MonoBehaviour:
@@ -26569,7 +26664,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "Isn\u2019t it lovely! Such beauty! Such elegance!"
   textSpeed: 0
 --- !u!114 &9116390501073602340
 MonoBehaviour:
@@ -26674,10 +26769,11 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26727,7 +26823,7 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "They\u2019re fine. Very cute. Wasn\u2019t worth the trouble of getting in here."
   textSpeed: 0
 --- !u!114 &9151375182186478885
 MonoBehaviour:
@@ -26832,10 +26928,10 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  speakerName: Apollo
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26885,7 +26981,8 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "I must keep peak physical form, so it\u2019s excellent! To improve oneself while
+    enjoying nature\u2026 *hic* wonder- *hic*wonderful indeed!"
   textSpeed: 0
 --- !u!114 &9191056106064313068
 MonoBehaviour:
@@ -26900,7 +26997,7 @@ MonoBehaviour:
   m_Name: Dialog Segment
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 4824, y: 1464}
+  position: {x: 4824, y: 1432}
   ports:
     keys:
     - input
@@ -26930,5 +27027,6 @@ MonoBehaviour:
   portrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
   speakerName: Apollo
   DialogText:
-  - 
+  - "My constitution does not go well with the outdoors. Im\u2019s destined for the
+    more luxurious lifestyle."
   textSpeed: 0
