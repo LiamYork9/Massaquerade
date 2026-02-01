@@ -7156,9 +7156,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a874d0d39101609468defed205d8651d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  graph: {fileID: 11400000, guid: 97248cc8bcf4cb347a530bc096c02c3f, type: 2}
-  replacementPortrait: {fileID: -6049277379503071963, guid: 7a28f7a61f8d0434fbc771fb8274a6c6, type: 3}
-  replacementName: Apollo
+  graph: {fileID: 11400000, guid: 308f922986454024bb7606253686db8e, type: 2}
+  replacementPortrait: {fileID: 5538333019515660469, guid: 4c6bae2734241514d87f324cc3835231, type: 3}
+  replacementName: Pawstrong
 --- !u!114 &1821806787
 MonoBehaviour:
   m_ObjectHideFlags: 0
