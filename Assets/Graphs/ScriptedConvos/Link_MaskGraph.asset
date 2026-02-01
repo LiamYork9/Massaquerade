@@ -40,8 +40,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -85,8 +85,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -130,8 +130,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -238,8 +238,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -288,8 +288,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -333,8 +333,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -378,8 +378,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -423,8 +423,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -468,8 +468,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -513,8 +513,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -558,8 +558,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -603,8 +603,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -711,8 +711,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -761,8 +761,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -806,8 +806,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -851,8 +851,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -896,8 +896,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -941,8 +941,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -986,8 +986,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1031,8 +1031,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1139,8 +1139,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1189,8 +1189,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1297,8 +1297,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1347,8 +1347,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1392,8 +1392,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1437,8 +1437,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1482,8 +1482,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1527,8 +1527,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1572,8 +1572,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1617,8 +1617,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1662,8 +1662,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1754,7 +1754,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: -6178158000303438382}
+        node: {fileID: -2758601917451202762}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -1766,7 +1766,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: -2758601917451202762}
+        node: {fileID: -6178158000303438382}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -1796,8 +1796,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -1842,8 +1842,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1887,8 +1887,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1932,8 +1932,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -1977,8 +1977,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2022,8 +2022,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2067,8 +2067,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2112,8 +2112,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2157,8 +2157,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2202,8 +2202,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2310,8 +2310,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2419,8 +2419,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -2468,8 +2468,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2572,8 +2572,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -2621,8 +2621,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2666,8 +2666,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2774,8 +2774,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2824,8 +2824,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2869,8 +2869,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -2977,8 +2977,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3027,8 +3027,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3072,8 +3072,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3117,8 +3117,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3162,8 +3162,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3207,8 +3207,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3315,8 +3315,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3365,8 +3365,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3410,8 +3410,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3455,8 +3455,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3500,8 +3500,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3545,8 +3545,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3653,8 +3653,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3703,8 +3703,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3748,8 +3748,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -3852,8 +3852,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -3964,8 +3964,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4014,8 +4014,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4122,8 +4122,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4235,8 +4235,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4285,8 +4285,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4328,7 +4328,7 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 2
+      - fieldName: Masks 3
         node: {fileID: -7824965036081130379}
         reroutePoints: []
       _direction: 0
@@ -4389,8 +4389,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -4438,8 +4438,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4483,8 +4483,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4591,8 +4591,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4641,8 +4641,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4686,8 +4686,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4778,7 +4778,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: -5206152175728817408}
+        node: {fileID: 5052612780820236245}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -4790,7 +4790,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 5052612780820236245}
+        node: {fileID: -5206152175728817408}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -4820,8 +4820,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -4866,8 +4866,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -4974,8 +4974,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5087,8 +5087,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5135,7 +5135,7 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 2
+      - fieldName: Masks 3
         node: {fileID: -5413842565988400870}
         reroutePoints: []
       _direction: 0
@@ -5196,8 +5196,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -5245,8 +5245,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5290,8 +5290,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5398,8 +5398,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5448,8 +5448,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5556,8 +5556,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5606,8 +5606,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5714,8 +5714,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5764,8 +5764,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5809,8 +5809,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5854,8 +5854,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -5899,8 +5899,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6007,8 +6007,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6116,8 +6116,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -6165,8 +6165,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6210,8 +6210,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6318,8 +6318,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6368,8 +6368,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6413,8 +6413,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6458,8 +6458,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6503,8 +6503,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6548,8 +6548,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6593,8 +6593,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6638,8 +6638,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6683,8 +6683,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6728,8 +6728,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6771,10 +6771,10 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 0
+      - fieldName: Masks 2
         node: {fileID: 3544117551747035403}
         reroutePoints: []
-      - fieldName: Masks 3
+      - fieldName: Masks 0
         node: {fileID: 3544117551747035403}
         reroutePoints: []
       _direction: 0
@@ -6835,8 +6835,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -6884,8 +6884,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -6992,8 +6992,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7042,8 +7042,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7087,8 +7087,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7132,8 +7132,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7177,8 +7177,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7222,8 +7222,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7326,8 +7326,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -7375,8 +7375,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7479,8 +7479,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -7528,8 +7528,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7636,8 +7636,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7686,8 +7686,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7731,8 +7731,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7839,8 +7839,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7889,8 +7889,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -7997,8 +7997,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8047,8 +8047,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8092,8 +8092,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8137,8 +8137,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8182,8 +8182,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8227,8 +8227,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8272,8 +8272,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8317,8 +8317,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8362,8 +8362,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8407,8 +8407,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8452,8 +8452,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8560,8 +8560,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8610,8 +8610,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8655,8 +8655,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8700,8 +8700,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8746,7 +8746,7 @@ MonoBehaviour:
       - fieldName: Masks 0
         node: {fileID: -7824965036081130379}
         reroutePoints: []
-      - fieldName: Masks 3
+      - fieldName: Masks 2
         node: {fileID: -7824965036081130379}
         reroutePoints: []
       _direction: 0
@@ -8807,8 +8807,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -8856,8 +8856,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -8964,8 +8964,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9014,8 +9014,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9059,8 +9059,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9167,8 +9167,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9217,8 +9217,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9321,8 +9321,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -9433,8 +9433,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9546,8 +9546,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9596,8 +9596,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9688,7 +9688,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 6537240572567394887}
+        node: {fileID: 5838186565141548734}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -9700,7 +9700,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 5838186565141548734}
+        node: {fileID: 6537240572567394887}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -9730,8 +9730,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -9839,8 +9839,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9889,8 +9889,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -9997,8 +9997,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10110,8 +10110,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10223,8 +10223,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10273,8 +10273,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10318,8 +10318,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10363,8 +10363,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10408,8 +10408,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10453,8 +10453,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10545,8 +10545,9 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 173542340631537586}
-        reroutePoints: []
+        node: {fileID: 6657339023936506545}
+        reroutePoints:
+        - {x: 640.81287, y: 1688.6329}
       _direction: 1
       _connectionType: 0
       _typeConstraint: 0
@@ -10557,7 +10558,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 6657339023936506545}
+        node: {fileID: 173542340631537586}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -10587,8 +10588,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -10696,8 +10697,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10746,8 +10747,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10854,8 +10855,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -10904,8 +10905,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11012,8 +11013,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11062,8 +11063,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11107,8 +11108,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11152,8 +11153,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11256,8 +11257,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -11368,8 +11369,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11418,8 +11419,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11526,8 +11527,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11576,8 +11577,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11621,8 +11622,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11666,8 +11667,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11774,8 +11775,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11824,8 +11825,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11932,8 +11933,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -11982,8 +11983,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12090,8 +12091,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12140,8 +12141,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12185,8 +12186,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12230,8 +12231,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12338,8 +12339,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12388,8 +12389,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12433,8 +12434,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12478,8 +12479,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12523,8 +12524,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12568,8 +12569,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12613,8 +12614,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12658,8 +12659,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12766,8 +12767,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12816,8 +12817,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12861,8 +12862,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -12965,8 +12966,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -13014,8 +13015,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -13532,8 +13533,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -13582,8 +13583,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -13627,8 +13628,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -13670,7 +13671,7 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 2
+      - fieldName: Masks 3
         node: {fileID: -1827902709040193804}
         reroutePoints: []
       _direction: 0
@@ -13731,8 +13732,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -13780,8 +13781,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -13825,8 +13826,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -13933,8 +13934,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -13983,8 +13984,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14091,8 +14092,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14141,8 +14142,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14249,8 +14250,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14299,8 +14300,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14344,8 +14345,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14389,8 +14390,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14497,8 +14498,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14547,8 +14548,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14590,7 +14591,7 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 2
+      - fieldName: Masks 3
         node: {fileID: 3385047602189567640}
         reroutePoints: []
       _direction: 0
@@ -14651,8 +14652,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -14700,8 +14701,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14745,8 +14746,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14790,8 +14791,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -14898,8 +14899,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15011,8 +15012,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15061,8 +15062,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15106,8 +15107,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15151,8 +15152,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15259,8 +15260,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15309,8 +15310,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15354,8 +15355,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15399,8 +15400,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15503,8 +15504,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -15552,8 +15553,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15597,8 +15598,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15642,8 +15643,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15750,8 +15751,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15800,8 +15801,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -15908,8 +15909,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16021,8 +16022,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16134,8 +16135,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16184,8 +16185,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16229,8 +16230,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16274,8 +16275,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16382,8 +16383,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16432,8 +16433,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16477,8 +16478,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16522,8 +16523,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16567,8 +16568,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16675,8 +16676,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16725,8 +16726,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16770,8 +16771,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16815,8 +16816,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16860,8 +16861,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16905,8 +16906,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -16950,8 +16951,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -17058,8 +17059,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -17108,8 +17109,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -17239,8 +17240,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - Good evening.
   textSpeed: 0
@@ -17348,8 +17349,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -17396,10 +17397,10 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 0
+      - fieldName: Masks 2
         node: {fileID: 3385047602189567640}
         reroutePoints: []
-      - fieldName: Masks 3
+      - fieldName: Masks 0
         node: {fileID: 3385047602189567640}
         reroutePoints: []
       _direction: 0
@@ -17460,8 +17461,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -17572,8 +17573,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -17622,8 +17623,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -17667,8 +17668,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -17771,8 +17772,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -17879,8 +17880,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -17928,8 +17929,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18020,7 +18021,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 776259562950248673}
+        node: {fileID: 2997444941660565308}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -18032,7 +18033,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 2997444941660565308}
+        node: {fileID: 776259562950248673}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -18062,8 +18063,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -18108,8 +18109,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18153,8 +18154,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18198,8 +18199,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18290,7 +18291,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: 7858267428308029861}
+        node: {fileID: -4083468069723088549}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -18302,7 +18303,7 @@ MonoBehaviour:
         PublicKeyToken=null
       connections:
       - fieldName: input
-        node: {fileID: -4083468069723088549}
+        node: {fileID: 7858267428308029861}
         reroutePoints: []
       _direction: 1
       _connectionType: 0
@@ -18332,8 +18333,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -18378,8 +18379,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18423,8 +18424,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18468,8 +18469,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18513,8 +18514,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18621,8 +18622,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18671,8 +18672,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18716,8 +18717,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18761,8 +18762,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18806,8 +18807,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18851,8 +18852,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -18959,8 +18960,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19009,8 +19010,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19054,8 +19055,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19099,8 +19100,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19144,8 +19145,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19189,8 +19190,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19234,8 +19235,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19342,8 +19343,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19392,8 +19393,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19500,8 +19501,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19548,10 +19549,10 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 0
+      - fieldName: Masks 2
         node: {fileID: -5413842565988400870}
         reroutePoints: []
-      - fieldName: Masks 3
+      - fieldName: Masks 0
         node: {fileID: -5413842565988400870}
         reroutePoints: []
       _direction: 0
@@ -19612,8 +19613,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -19661,8 +19662,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19706,8 +19707,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19814,8 +19815,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19864,8 +19865,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19909,8 +19910,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19954,8 +19955,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -19999,8 +20000,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20044,8 +20045,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20089,8 +20090,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20134,8 +20135,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20179,8 +20180,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20224,8 +20225,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20269,8 +20270,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20314,8 +20315,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20359,8 +20360,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20404,8 +20405,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20449,8 +20450,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20494,8 +20495,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20602,8 +20603,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20650,10 +20651,10 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 0
+      - fieldName: Masks 2
         node: {fileID: -2273150519076488273}
         reroutePoints: []
-      - fieldName: Masks 3
+      - fieldName: Masks 0
         node: {fileID: -2273150519076488273}
         reroutePoints: []
       _direction: 0
@@ -20714,8 +20715,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -20826,8 +20827,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20939,8 +20940,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -20989,8 +20990,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21034,8 +21035,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21142,8 +21143,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21192,8 +21193,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21237,8 +21238,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21282,8 +21283,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21386,8 +21387,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -21498,8 +21499,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21607,8 +21608,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -21656,8 +21657,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21764,8 +21765,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21877,8 +21878,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21927,8 +21928,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -21972,8 +21973,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22017,8 +22018,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22062,8 +22063,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22107,8 +22108,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22152,8 +22153,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22195,7 +22196,7 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 2
+      - fieldName: Masks 3
         node: {fileID: -2273150519076488273}
         reroutePoints: []
       _direction: 0
@@ -22256,8 +22257,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -22305,8 +22306,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22350,8 +22351,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22393,10 +22394,10 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 0
+      - fieldName: Masks 2
         node: {fileID: -1827902709040193804}
         reroutePoints: []
-      - fieldName: Masks 3
+      - fieldName: Masks 0
         node: {fileID: -1827902709040193804}
         reroutePoints: []
       _direction: 0
@@ -22457,8 +22458,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -22506,8 +22507,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22610,8 +22611,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -22722,8 +22723,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22772,8 +22773,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22817,8 +22818,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -22925,8 +22926,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23038,8 +23039,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23088,8 +23089,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23196,8 +23197,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23246,8 +23247,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23291,8 +23292,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23336,8 +23337,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23381,8 +23382,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23426,8 +23427,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23534,8 +23535,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23584,8 +23585,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23629,8 +23630,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23674,8 +23675,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23719,8 +23720,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23764,8 +23765,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23872,8 +23873,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -23922,8 +23923,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24030,8 +24031,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24080,8 +24081,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24188,8 +24189,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24238,8 +24239,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24283,8 +24284,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24328,8 +24329,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24373,8 +24374,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24418,8 +24419,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24526,8 +24527,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24576,8 +24577,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24619,7 +24620,7 @@ MonoBehaviour:
       _typeQualifiedName: Connection, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
       connections:
-      - fieldName: Masks 2
+      - fieldName: Masks 3
         node: {fileID: 3544117551747035403}
         reroutePoints: []
       _direction: 0
@@ -24680,8 +24681,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -24792,8 +24793,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24905,8 +24906,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -24955,8 +24956,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25000,8 +25001,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25045,8 +25046,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25153,8 +25154,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25203,8 +25204,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25248,8 +25249,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25352,8 +25353,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -25464,8 +25465,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25514,8 +25515,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25559,8 +25560,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25604,8 +25605,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25712,8 +25713,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25762,8 +25763,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25807,8 +25808,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25852,8 +25853,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -25897,8 +25898,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26001,8 +26002,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -26050,8 +26051,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26095,8 +26096,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26140,8 +26141,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26248,8 +26249,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26357,8 +26358,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - ' '
   textSpeed: 0
@@ -26469,8 +26470,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26519,8 +26520,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26564,8 +26565,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26672,8 +26673,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26722,8 +26723,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26830,8 +26831,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
-  speakerName: Cam
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26880,8 +26881,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
@@ -26925,8 +26926,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: 8986690386628598357, guid: bb8d2cc7ca4c17e4384f8b85b7467e06, type: 3}
+  speakerName: Link
   DialogText:
   - 
   textSpeed: 0
