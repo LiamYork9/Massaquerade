@@ -7,13 +7,14 @@ using System.Collections;
 
 public class PanelNavigation : MonoBehaviour
 {
-
     public GameObject panel1;
     public GameObject panel2;
     public GameObject panel3;
     public GameObject currentPanel;
     public GameObject nextPanel;
     public randomNPC NPCs;
+
+    public int targetScene;
 
     public Animator animator;
 
@@ -33,24 +34,25 @@ public class PanelNavigation : MonoBehaviour
         currentPanel = nextPanel;
         nextPanel = panel1;
         Fade();
-        NPCs.SetSceneActive(1);
+        targetScene = 1;
     }
     public void Panel2(){
         currentPanel = nextPanel;
         nextPanel = panel2;
         Fade();
-        NPCs.SetSceneActive(2);
+        targetScene = 2;
     }
     public void Panel3(){
         currentPanel = nextPanel;
         nextPanel = panel3;
         Fade();
-        NPCs.SetSceneActive(3);
+        targetScene = 3;
         Debug.Log("pressed");
     }
     public void Transition(){
         currentPanel.SetActive(false);
         nextPanel.SetActive(true);
+        NPCs.SetSceneActive(targetScene);
     }
     
 }
