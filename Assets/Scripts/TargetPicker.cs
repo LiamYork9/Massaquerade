@@ -18,6 +18,8 @@ public class TargetPicker : MonoBehaviour
 
     public List<String> DislikesLikes;
 
+    public GameObject theTarget;
+
     
     void Start()
     {
@@ -27,6 +29,7 @@ public class TargetPicker : MonoBehaviour
         {
            GameObject randomTarget = GetRandomObject(choices);
            randomTarget.GetComponent<NPC>().Target = true;
+           theTarget = randomTarget;
            choices.Remove(randomTarget);
 
             GameObject randomDetective = GetRandomObject(choices);
