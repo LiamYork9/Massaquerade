@@ -1376,7 +1376,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1130523400}
   - component: {fileID: 1130523399}
-  - component: {fileID: 1130523401}
   m_Layer: 0
   m_Name: TextBoxManager
   m_TagString: Untagged
@@ -1426,19 +1425,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1130523401
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1130523398}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00a099523de5b79438d4428756824894, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mask: 0
 --- !u!1 &1300380752
 GameObject:
   m_ObjectHideFlags: 0
@@ -1995,8 +1981,9 @@ GameObject:
   - component: {fileID: 1844458481}
   - component: {fileID: 1844458480}
   - component: {fileID: 1844458479}
+  - component: {fileID: 1844458482}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Mask Slot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2072,6 +2059,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1844458477}
   m_CullTransparentMesh: 1
+--- !u!114 &1844458482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1844458477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a099523de5b79438d4428756824894, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mask: 0
 --- !u!1001 &1947521418
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2296,6 +2296,30 @@ PrefabInstance:
       propertyPath: outOfInventory
       value: 
       objectReference: {fileID: 657525189}
+    - target: {fileID: 7327959219993963711, guid: 22c6b465acd3181409a42abf0c40c31c, type: 3}
+      propertyPath: maskList.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327959219993963711, guid: 22c6b465acd3181409a42abf0c40c31c, type: 3}
+      propertyPath: 'maskList.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 6757a50cc61c12e408fdaac7110232a4, type: 2}
+    - target: {fileID: 7327959219993963711, guid: 22c6b465acd3181409a42abf0c40c31c, type: 3}
+      propertyPath: 'maskList.Array.data[1]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 33ad964222614514dbf577640f921c56, type: 2}
+    - target: {fileID: 7327959219993963711, guid: 22c6b465acd3181409a42abf0c40c31c, type: 3}
+      propertyPath: 'maskList.Array.data[2]'
+      value: 
+      objectReference: {fileID: 11400000, guid: fafea02ccdd737e408db63eda3d2b67c, type: 2}
+    - target: {fileID: 7327959219993963711, guid: 22c6b465acd3181409a42abf0c40c31c, type: 3}
+      propertyPath: 'maskList.Array.data[3]'
+      value: 
+      objectReference: {fileID: 11400000, guid: d8364296dd3671742b4dda318271f16a, type: 2}
+    - target: {fileID: 7327959219993963711, guid: 22c6b465acd3181409a42abf0c40c31c, type: 3}
+      propertyPath: 'maskList.Array.data[4]'
+      value: 
+      objectReference: {fileID: 11400000, guid: e36cba478a80fe448b4f74b46a23329f, type: 2}
     - target: {fileID: 8458711106786880576, guid: 22c6b465acd3181409a42abf0c40c31c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

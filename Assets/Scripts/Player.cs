@@ -15,6 +15,12 @@ public class Player : MonoBehaviour
     public static Player Instance;
     public Mask mask;
 
+    public GameObject invenPan;
+
+    public bool panIsOn;
+
+   
+
     void Awake()
     {
         if (Instance == null||Instance == this)
@@ -35,6 +41,29 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+         if (Input.GetKeyDown(KeyCode.I))
+        {
+            if(panIsOn == false)
+            {
+                TurnOnIn();
+            }
+            else
+            {
+                TurnOffIn();
+            }
+        }
+       
+      
+    }
+
+    public void TurnOnIn()
+    {
+        invenPan.SetActive(true);
+        panIsOn = true;
+    }
+    public void TurnOffIn()
+    {
+        invenPan.SetActive(false);
+        panIsOn = false;
     }
 }
