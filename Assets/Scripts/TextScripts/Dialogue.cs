@@ -4,7 +4,6 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.Events;
 using UnityEngine.UI;
-using UnityEditor.Experimental.GraphView;
 
 public class Dialogue : MonoBehaviour
 {
@@ -152,6 +151,45 @@ public class Dialogue : MonoBehaviour
             }
            
         }
+        else if(activeSegment is DialogGiftSegment){
+        
+            if((activeSegment as DialogGiftSegment).Options.Count > 0)
+            {
+                 int answerIndex = 0;
+                  foreach (Transform child in  TextBoxManager.Instance.buttonParent)
+                    {
+                        Destroy(child.gameObject);
+                    }
+                 
+                 foreach(string answer in (activeSegment as DialogGiftSegment).Options)
+                {
+                   
+                    GameObject btn = Instantiate( TextBoxManager.Instance.buttonPrefab,  TextBoxManager.Instance.buttonParent);
+                    btn.GetComponentInChildren<TMP_Text>().text = answer;
+
+                    int index = answerIndex;
+
+                     btn.GetComponentInChildren<Button>().onClick.AddListener((() => { GiftClicked(index); }));
+
+                    answerIndex++;
+                }
+            }
+           
+            else
+            {
+                if (activeSegment.GetPort("output").IsConnected)
+                {
+                    UpdateDialog(activeSegment.GetPort("output").Connection.node as DialogSegment);
+                     TextBoxManager.Instance.textComponent.text = string.Empty;
+                    StartCoroutine(TypeLine());
+                }
+                else
+                {
+                    EndDialogue();
+                }
+            }
+           
+        }
          else if((activeSegment is DialogPointSegment))
             {
                 npc.Positive += (activeSegment as DialogPointSegment).PositivePoints;
@@ -192,7 +230,7 @@ public class Dialogue : MonoBehaviour
         }
         else if(activeSegment is LikesAndDislikesNode)
         {
-            Debug.Log((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  "none"));
+            Debug.Log((activeSegment as LikesAndDislikesNode).GetValue((activeSegment as LikesAndDislikesNode).GetPort("Ask")));
             if(npc.Likes.Contains((activeSegment as LikesAndDislikesNode).GetInputValue("Ask",  "none")))
             {
                 UpdateDialog(activeSegment.GetPort("Opinion 0").Connection.node as DialogSegment);
@@ -246,6 +284,22 @@ public class Dialogue : MonoBehaviour
             
     }
 
+    public void GiftClicked(int clickedIndex)
+    {
+        (activeSegment as DialogGiftSegment).Answer = (activeSegment as DialogGiftSegment).Options[clickedIndex];
+        XNode.NodePort port = activeSegment.GetPort("Answer");
+        if (port.IsConnected)
+        {
+            UpdateDialog(port.Connection.node as DialogSegment);
+            LineSkip();
+        }
+        else
+        {
+            EndDialogue();
+        }
+            
+    }
+
     public void EndDialogue()
     {
         Debug.Log("End here");
@@ -278,9 +332,9 @@ public class Dialogue : MonoBehaviour
             index = 0;
             activeSegment = newSegment;
             dialogText = newSegment.DialogText;
-             TextBoxManager.Instance.nameText.text = activeSegment.speakerName;
-             TextBoxManager.Instance.portrait.sprite = activeSegment.portrait;
-             foreach (Transform child in  TextBoxManager.Instance.buttonParent)
+            TextBoxManager.Instance.nameText.text = activeSegment.speakerName;
+            TextBoxManager.Instance.portrait.sprite = activeSegment.portrait;
+            foreach (Transform child in  TextBoxManager.Instance.buttonParent)
             {
                 Destroy(child.gameObject);
             }

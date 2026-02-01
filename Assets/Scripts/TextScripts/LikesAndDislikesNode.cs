@@ -14,8 +14,10 @@ public class LikesAndDislikesNode : DialogSegment
 	public override object GetValue(NodePort port) {
 
 		string Ask = GetInputValue<string>("Ask", this.Ask);
+		Debug.Log("Ask: " + Ask);
 	   	if(port.fieldName=="Ask")
 	   	{
+			Debug.Log("Ask: " + Ask);
 			return Ask;
 		}
 	   else if (port.fieldName.Contains("Opinion"))
