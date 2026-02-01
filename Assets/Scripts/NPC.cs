@@ -1,8 +1,12 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
+using UnityEngine.Events;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class NPC : MonoBehaviour
+public class NPC : MonoBehaviour, IDropHandler
 {
     public bool Target = false;
 
@@ -29,6 +33,14 @@ public class NPC : MonoBehaviour
     public List<String> Dislikes;
 
     public TargetPicker targetPicker;
+
+     public DialogueInteraction dialogueInteraction;
+
+     public Dialogue dialogue;
+
+     public GameObject contents = null;
+
+     public DialogGraph giftGraph;
     
     void OnEnable()
     {
@@ -76,5 +88,16 @@ public class NPC : MonoBehaviour
 
        
         return list[randomIndex];
+    }
+
+    public void OnDrop(PointerEventData eventData)
+    {
+            dialogue.lines = giftGraph;
+            (dialogue.activeSegment as LikesAndDislikesNode).GetInputValue("Ask", contents.GetComponent<ItemHolder>().itemName );
+            Debug.Log(contents.GetComponent<ItemHolder>().itemName);
+          
+        
+            dialogueInteraction.StartDialogue();
+        
     }
 }
