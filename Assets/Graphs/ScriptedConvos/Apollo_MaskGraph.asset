@@ -3905,7 +3905,10 @@ MonoBehaviour:
       _node: {fileID: -6429186416931809676}
       _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
-      connections: []
+      connections:
+      - fieldName: Answers 2
+        node: {fileID: -4083468069723088549}
+        reroutePoints: []
       _direction: 0
       _connectionType: 0
       _typeConstraint: 0
@@ -6848,7 +6851,10 @@ MonoBehaviour:
       _node: {fileID: -4083468069723088549}
       _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
-      connections: []
+      connections:
+      - fieldName: Ask
+        node: {fileID: -6429186416931809676}
+        reroutePoints: []
       _direction: 1
       _connectionType: 0
       _typeConstraint: 0
