@@ -15,10 +15,15 @@ public class Slot : MonoBehaviour, IDropHandler
                 contents = eventData.pointerDrag;
                 contents.GetComponent<DragAndDrop>().LeaveInventory();
                 contents.GetComponent<DragAndDrop>().slot = gameObject.GetComponent<Slot>();
+                Player.Instance.mask = contents.GetComponent<ItemHolder>().mask;
             }
         }
         public void Remove()
         {
+            if(contents != null)
+        {
+            Player.Instance.mask = Mask.Default;
+        }
             contents = null;
         }
 

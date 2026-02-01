@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60178a052c95e4d4aad47fd88e1a96a5, type: 3}
+  m_Name: RabbitMask
+  m_EditorClassIdentifier: 
+  itemName: 
+  sprite: {fileID: -8671385598675338841, guid: 03516b8d9b0c64c4a9b50dde6f2ea412, type: 3}
+  mask: 1
