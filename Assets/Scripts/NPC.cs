@@ -31,6 +31,7 @@ public class NPC : MonoBehaviour, IDropHandler
     public List<String> Likes;
 
     public List<String> Dislikes;
+    public bool hasQuirk = false;
 
     public TargetPicker targetPicker;
 
@@ -45,7 +46,7 @@ public class NPC : MonoBehaviour, IDropHandler
     void OnEnable()
     {
          
-        quirk = (Quirk)UnityEngine.Random.Range(0,6);
+        
            
           
           
@@ -62,7 +63,12 @@ public class NPC : MonoBehaviour, IDropHandler
            String randomDislikes = GetRandomObject(targetPicker.DislikesLikes);
            Dislikes.Add(randomDislikes);
           
-          
+        }
+
+        if(!hasQuirk)
+        {
+            quirk = (Quirk)UnityEngine.Random.Range(0,6);
+            hasQuirk=true;
         }
     }
     

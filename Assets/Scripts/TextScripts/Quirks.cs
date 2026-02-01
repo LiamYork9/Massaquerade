@@ -6,14 +6,13 @@ using XNode;
 
  public enum Quirk
 {
+    Sick,
     Tired,
-    Drunk,
     BadDay,
     NotInvited,
-    Sick,
-    Suspicious
-
-}
+    Suspicious,
+    Drunk
+}    
 
 public class Quirks : DialogSegment {
     

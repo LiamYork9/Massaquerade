@@ -3,10 +3,10 @@ using UnityEngine;
 public enum Mask
 {
     Default,
-    Cat,
-    Wolf,
     Bunny,
+    Wolf,
     Hornet,
+    Cat,
     Peacock
 }
 
