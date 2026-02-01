@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ballroom 1_0: 3980972793911235682
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
