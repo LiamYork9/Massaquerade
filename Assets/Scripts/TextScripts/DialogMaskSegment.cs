@@ -4,15 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using XNode;
 
-public enum Mask
-{
-    Default,
-    Cat,
-    Wolf,
-    Bunny,
-    Hornet,
-    Peacock
-}
+
 public class DialogMaskSegment : DialogSegment {
 
   [Output(dynamicPortList = true)]
