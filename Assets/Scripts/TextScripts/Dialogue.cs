@@ -137,7 +137,6 @@ public class Dialogue : MonoBehaviour
                     answerIndex++;
                 }
             }
-           
             else
             {
                 if (activeSegment.GetPort("output").IsConnected)

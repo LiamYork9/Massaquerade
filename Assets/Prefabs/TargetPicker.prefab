@@ -48,17 +48,12 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   killTarget: {fileID: 0}
   winScreen: {fileID: 0}
   loseScreen: {fileID: 0}
   deathImage: {fileID: 0}
-  Quirks:
-  - Tired
-  - Drunk
-  - Having a bad day
-  - "Wasn\u2019t invited"
-  - Sick
-  - Suspicious
   DislikesLikes:
   - Fish
   - Charcuterie
@@ -67,10 +62,13 @@ MonoBehaviour:
   - Champagne
   - Rock n Roll
   - Jazz
-  - Classical Music
+  - Classical
   - Anime
   - Reality TV
   - Video Games
   - Hiking
   - Art
-  - Sport
+  - Sports
+  - Weather
+  - Reading
+  theTarget: {fileID: 0}
