@@ -243,7 +243,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -723,7 +724,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -999,7 +1000,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - Going on walks is wonderful for clearing my head. We should stroll the garden
+    later!
   textSpeed: 0
 --- !u!114 &-8403698641397273711
 MonoBehaviour:
@@ -1152,7 +1154,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -1311,7 +1313,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -1361,7 +1363,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "It\u2019s dreadful. Isn\u2019t the heat just soul-sucking?"
   textSpeed: 0
 --- !u!114 &-8199838599206816426
 MonoBehaviour:
@@ -1406,7 +1408,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "No, I\u2019m not a big fan\u2026 but what have you been drinking? And where
+    can I get some?"
   textSpeed: 0
 --- !u!114 &-8189012541762761399
 MonoBehaviour:
@@ -1496,7 +1499,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Mmm, it\u2019s a little loud, isn\u2019t it? It gives me somewhat of a headache."
   textSpeed: 0
 --- !u!114 &-8087849502535477877
 MonoBehaviour:
@@ -1811,7 +1814,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-7814527915302154002
@@ -1902,7 +1905,9 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I\u2019ve found the woods don\u2019t agree with me. I confess that bugs scare
+    me a little. I know, it\u2019s weird, they\u2019re just\u2026 they\u2019re so
+    small and everywhere. Do you not agree?"
   textSpeed: 0
 --- !u!114 &-7713946950001377834
 MonoBehaviour:
@@ -1993,7 +1998,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "To each their own. I\u2019m glad you know your preferences."
   textSpeed: 0
 --- !u!114 &-7599075986439160572
 MonoBehaviour:
@@ -2038,7 +2043,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "It\u2019s pleasant enough background noise"
   textSpeed: 0
 --- !u!114 &-7556697019999610513
 MonoBehaviour:
@@ -2083,7 +2088,9 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "The pursuit of athleticism should be a private journey for one\u2019s own sake.
+    I\u2019ve no interest in making it a spectacle. Besides, isn\u2019t such organized
+    sport a little dull?"
   textSpeed: 0
 --- !u!114 &-7519642555891264652
 MonoBehaviour:
@@ -2328,7 +2335,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -2434,15 +2441,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Csm
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Reality TV
+  - Reading
+  - Sports
 --- !u!114 &-7358599687486129592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2591,10 +2598,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - I positively ADORE some reality TV. The drama and stakes are Lovely!
-  - "I had so many so many scripts to review lately, I don\u2019t know if I\u2019ll
-    ever want to read again! "
-  - "Ya\u2019ll like the ball of foot?"
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Reality TV
@@ -2796,7 +2800,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!-
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3000,7 +3004,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3142,7 +3147,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Come again? I\u2019m not sure what you mean. Maybe you\u2019ve had enough to
+    drink for the evening."
   textSpeed: 0
 --- !u!114 &-7048498520489289605
 MonoBehaviour:
@@ -3341,7 +3347,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3527,7 +3533,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Fencing is one of my most passionate hobbies. Ooo, you should duel with me!
+    I\u2019m sure we could find a makeshift foil or saber here."
   textSpeed: 0
 --- !u!114 &-6701987740514989781
 MonoBehaviour:
@@ -3681,7 +3688,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -3881,10 +3888,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
-  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
-    enough."
-  - Those macarons they have are so cuuute! Such pretty colors too!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Rock n Roll
@@ -4155,7 +4159,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4268,7 +4272,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - ng? Getting in so
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4422,9 +4426,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - So, uh.. What types of games do you like?
-  - Any, um, any animes you watch? I have a couple I started recently.
-  - How do you guys feel about hiking? I love touching grass!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Video Games
@@ -4628,7 +4630,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -4858,7 +4860,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-5264591789793093177
@@ -5012,7 +5014,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough. "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5125,7 +5128,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5231,15 +5234,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Video Games
+  - Anime
+  - Hiking
 --- !u!114 &-5190742319254976152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5437,7 +5440,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5596,7 +5599,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - ' I positively ADORE some reality TV. The drama and stakes are Lovely! '
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5646,7 +5649,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "They\u2019re much too sweet for my taste. It\u2019s such a shame."
   textSpeed: 0
 --- !u!114 &-5039816317458455478
 MonoBehaviour:
@@ -5754,7 +5757,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -5894,7 +5897,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Yes! It\u2019s so fun to dance to. It\u2019s a shame they\u2019re playing such
+    slow things here. "
   textSpeed: 0
 --- !u!114 &-4918979551280656751
 MonoBehaviour:
@@ -6047,7 +6051,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -6156,11 +6160,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
-    wonderful isn\u2019t it?"
-  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
-    what's not to love?
-  - Do you enjoy fish? I greatly enjoy it and eat it daily!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Sports
@@ -6363,7 +6363,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -6640,7 +6640,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "On the contrary, I\u2019ve found it jarring. Maybe I should go give the pianist
+    some tips."
   textSpeed: 0
 --- !u!114 &-4198481507225513348
 MonoBehaviour:
@@ -6776,7 +6777,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I\u2019ve watched an episode here and there. I think I saw Bleach, once? I would
+    absolutely welcome a recommendation."
   textSpeed: 0
 --- !u!114 &-4083468069723088549
 MonoBehaviour:
@@ -6883,7 +6885,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Classical
@@ -7041,7 +7043,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -7378,10 +7380,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
-  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
-    enough."
-  - Those macarons they have are so cuuute! Such pretty colors too!-
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Rock n Roll
@@ -7534,10 +7533,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
-  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
-    enough."
-  - Those macarons they have are so cuuute! Such pretty colors too!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Rock n Roll
@@ -7695,7 +7691,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -7899,7 +7895,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -8058,7 +8054,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
+    want to read again! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -8518,7 +8515,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - I spend enough time outside without seeking out additional expeditions. However,
+    your enthusiasm is somewhat infectious.
   textSpeed: 0
 --- !u!114 &-2980028075918709360
 MonoBehaviour:
@@ -8626,7 +8624,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -8874,9 +8872,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "This music they\u2019re playing is real nice, don\u2019t you think?"
-  - "Sooo, what do you think of this weather we\u2019re having?"
-  - "They\u2019ve sure got a lot of art displayed around."
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Classical
@@ -9033,7 +9029,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9236,7 +9232,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9391,10 +9387,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - I positively ADORE some reality TV. The drama and stakes are Lovely!
-  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
-    want to read again! "
-  - "Ya\u2019ll like the ball of foot?"
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Reality TV
@@ -9506,7 +9499,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9619,7 +9612,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -9804,7 +9797,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-2220184265992283147
@@ -10071,7 +10064,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10184,7 +10177,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10297,7 +10290,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10665,7 +10659,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &-1774106252419275620
@@ -10774,7 +10768,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - I positively ADORE some reality TV. The drama and stakes are Lovely!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -10932,7 +10926,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11091,7 +11085,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11141,7 +11135,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "They aren\u2019t my preferred method of relaxation, I\u2019m afraid."
   textSpeed: 0
 --- !u!114 &-1489850355460349503
 MonoBehaviour:
@@ -11337,10 +11331,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - I positively ADORE some reality TV. The drama and stakes are Lovely!
-  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
-    want to read again! "
-  - "Ya\u2019ll like the ball of foot?"
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Reality TV
@@ -11452,7 +11443,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently.
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11611,7 +11602,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -11707,7 +11699,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - 'Team sports were never my preference, though solo competitions are intriguing. '
   textSpeed: 0
 --- !u!114 &-1223476877575238843
 MonoBehaviour:
@@ -11861,7 +11853,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
+    want to read again! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12020,7 +12013,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - I positively ADORE some reality TV. The drama and stakes are Lovely!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12178,7 +12171,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12273,7 +12266,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I do! Do you ever catch your own? Though\u2026 I think you told me once you
+    didn\u2019t? I don\u2019t really remember why right now. "
   textSpeed: 0
 --- !u!114 &-756935586472770015
 MonoBehaviour:
@@ -12426,7 +12420,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -12860,7 +12854,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -13061,11 +13055,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
-    wonderful isn\u2019t it?"
-  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
-    what's not to love?
-  - Do you enjoy fish? I greatly enjoy it and eat it daily!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Sports
@@ -13633,7 +13623,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -13728,7 +13718,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I\u2019ve found the woods don\u2019t agree with me. There\u2019s too much noise
+    in the underbrush for me to be comfortable."
   textSpeed: 0
 --- !u!114 &173542340631537586
 MonoBehaviour:
@@ -13832,9 +13823,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - So, uh.. What types of games do you like?-
-  - Any, um, any animes you watch? I have a couple I started recently.
-  - How do you guys feel about hiking? I love touching grass!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Video Games
@@ -14037,7 +14026,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Any, um, any animes you watch? I have a couple I started recently
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14196,7 +14185,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14354,7 +14344,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14604,7 +14594,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -14654,7 +14644,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - I hardly have the time nor desire to play such things.
   textSpeed: 0
 --- !u!114 &776259562950248673
 MonoBehaviour:
@@ -14758,10 +14748,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - So, uh.. What types of games do you like?
-  - Any, um, any animes you watch? I have a couple I started recently.
-  - How do you guys feel about hiking? I love touching grass!
-  textSpeed: 0
+  - (Looks like the ball is in my court. What should I talk about?)
+  textSpeed: -3.32
   Answers:
   - Video Games
   - Anime
@@ -15009,7 +14997,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - I positively ADORE some reality TV. The drama and stakes are Lovely!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15122,7 +15110,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15372,7 +15361,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - I positively ADORE some reality TV. The drama and stakes are Lovely!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -15615,15 +15604,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Sports
+  - Hiking
+  - Fish
 --- !u!114 &1530620292404933740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15867,7 +15856,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16026,7 +16015,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16139,7 +16129,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16252,7 +16242,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16302,7 +16293,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I spend enough time outside without seeking out additional expeditions. You
+    didn\u2019t seem the sort, though.   "
   textSpeed: 0
 --- !u!114 &2029662549508060070
 MonoBehaviour:
@@ -16501,7 +16493,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16796,7 +16788,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -16982,7 +16975,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "The paintings are skillfully painted but nonsensical. It\u2019s a pretty silly
+    choice for decorating such a public space."
   textSpeed: 0
 --- !u!114 &2764062110055637359
 MonoBehaviour:
@@ -17180,7 +17174,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17470,7 +17464,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?-
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17582,9 +17576,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "This music they\u2019re playing is real nice, don\u2019t you think?"
-  - "Sooo, what do you think of this weather we\u2019re having?"
-  - "They\u2019ve sure got a lot of art displayed around."
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Classical
@@ -17696,7 +17688,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -17791,7 +17783,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Oh, yes! The violinist has a way with their bow. Doesn\u2019t it make you swoon?"
   textSpeed: 0
 --- !u!114 &3195187966109534123
 MonoBehaviour:
@@ -17895,11 +17887,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
-    wonderful isn\u2019t it?"
-  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
-    what's not to love?
-  - Do you enjoy fish? I greatly enjoy it and eat it daily!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Sports
@@ -18007,10 +17995,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
-  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
-    enough."
-  - Those macarons they have are so cuuute! Such pretty colors too!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Rock n Roll
@@ -18193,7 +18178,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &3392873175172133313
@@ -18466,7 +18451,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - ' '
+  - (...)
   textSpeed: 0
   Masks: 000000000100000002000000030000000400000005000000
 --- !u!114 &3741412473403307842
@@ -18512,7 +18497,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Really? You must see something in it that I don\u2019t. I\u2019m open to being
+    convinced."
   textSpeed: 0
 --- !u!114 &3764960166383716545
 MonoBehaviour:
@@ -18755,7 +18741,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -18850,7 +18836,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - The artists are all so talented.  Have you seen the painting in the corner? You
+    should go check it out, you could look at the colors for hours.
   textSpeed: 0
 --- !u!114 &3962068819156233109
 MonoBehaviour:
@@ -19094,7 +19081,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Sooo, what do you think of this weather we\u2019re having?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19370,7 +19357,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - I knowww!! *ahem* I mean, yes, they are quite cute. Look at how fluffy the cream
+    is!
   textSpeed: 0
 --- !u!114 &4886555317185259547
 MonoBehaviour:
@@ -19478,7 +19466,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I had so many so many scripts to review lately, I don\u2019t know if I\u2019ll
+    ever want to read again! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19636,7 +19625,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -19745,15 +19734,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: "They\u2019ve sure got a lot of art displayed around.am"
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Classical
+  - Weather
+  - Art
 --- !u!114 &5106568896773909796
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19797,7 +19786,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - Are you asking about football? I can appreciate a game every now and then.
   textSpeed: 0
 --- !u!114 &5152695672171634276
 MonoBehaviour:
@@ -19950,7 +19939,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20181,7 +20171,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - I can understand getting tired of reading with enough exposure. It gets so boring
+    after a awhile, no?
   textSpeed: 0
 --- !u!114 &5371460895704661801
 MonoBehaviour:
@@ -20272,7 +20263,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - The sunshine has been nice, but the humidity is intense. I wonder when the weather
+    will change next.
   textSpeed: 0
 --- !u!114 &5441627617339722300
 MonoBehaviour:
@@ -20407,7 +20399,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "It\u2019s been perfect for spending a little time sunbathing. I should go to
+    the beach soon. Do you like the ocean?"
   textSpeed: 0
 --- !u!114 &5605705031845660731
 MonoBehaviour:
@@ -20452,7 +20445,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - Ooo, I do enjoy watching Inuyasha when I have time spare? Do you know it? Have
+    you SEEN the latest season?
   textSpeed: 0
 --- !u!114 &5623428532540786184
 MonoBehaviour:
@@ -20497,7 +20491,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "It\u2019s edible I guess, but I\u2019d rather have some other meat. Wait, you\u2019re
+    allergic! You shouldn\u2019t be eating that"
   textSpeed: 0
 --- !u!114 &5630557157012263131
 MonoBehaviour:
@@ -20741,7 +20736,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -20853,9 +20849,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "This music they\u2019re playing is real nice, don\u2019t you think?"
-  - "Sooo, what do you think of this weather we\u2019re having?"
-  - "They\u2019ve sure got a lot of art displayed around."
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Classical
@@ -20967,7 +20961,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21080,7 +21074,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
+    want to read again! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21283,7 +21278,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
+    wonderful isn\u2019t it?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21333,7 +21329,9 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Those colors are garish. They clash with everything else in the room. Maybe
+    the host needs some tips on decorating. Hmm\u2026 maybe it\u2019s rude to point
+    that out, though."
   textSpeed: 0
 --- !u!114 &6010402907863664354
 MonoBehaviour:
@@ -21378,7 +21376,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "It\u2019s definitely not what I would prefer to spend my nights watching. People-watching
+    in person is much more entertaining. Look at those two off in the corner!"
   textSpeed: 0
 --- !u!114 &6017070011837669457
 MonoBehaviour:
@@ -21423,7 +21422,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - Going on walks is wonderful for clearing my head. Your enthusiasm surprises me.
+    Do you like the flowers? I imagine they smell nice, considering, you know.
   textSpeed: 0
 --- !u!114 &6079909129592029433
 MonoBehaviour:
@@ -21527,10 +21527,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - I positively ADORE some reality TV. The drama and stakes are Lovely!
-  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
-    want to read again! "
-  - "Ya\u2019ll like the ball of foot?"
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Reality TV
@@ -21642,7 +21639,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -21748,15 +21746,15 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 1
-  portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
-  speakerName: Scarlet
+  portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
+  speakerName: Cam
   DialogText:
-  - ' '
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
-  - 
-  - 
-  - 
+  - Rock n Roll
+  - Champagne
+  - Macarons
 --- !u!114 &6092228000814195572
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21908,7 +21906,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This music they\u2019re playing is real nice, don\u2019t you think?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -22021,7 +22019,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -22207,7 +22206,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I know, it\u2019s quite fun to get absorbed in a little played-up drama sometimes.
+    Did you see what was airing last night? It was delicious."
   textSpeed: 0
 --- !u!114 &6458924904576491435
 MonoBehaviour:
@@ -22402,9 +22402,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - So, uh.. What types of games do you like?
-  - Any, um, any animes you watch? I have a couple I started recently.
-  - How do you guys feel about hiking? I love touching grass!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Video Games
@@ -22607,9 +22605,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "This music they\u2019re playing is real nice, don\u2019t you think?"
-  - "Sooo, what do you think of this weather we\u2019re having?"
-  - "They\u2019ve sure got a lot of art displayed around."
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Classical
@@ -22763,10 +22759,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - I positively ADORE some reality TV. The drama and stakes are Lovely!
-  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
-    want to read again! "
-  - "Ya\u2019ll like the ball of foot?"
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Reality TV
@@ -22878,7 +22871,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
+    what's not to love?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -22928,7 +22922,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I\u2019ve never been one for much reading. I prefer to do things with my hands."
   textSpeed: 0
 --- !u!114 &6864212489978475746
 MonoBehaviour:
@@ -23081,7 +23075,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
+    want to read again! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23194,7 +23189,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23352,7 +23347,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23447,7 +23442,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "While I don\u2019t have the time very often, I do enjoy metroidvanias on rare
+    occasion."
   textSpeed: 0
 --- !u!114 &7122724397607639423
 MonoBehaviour:
@@ -23537,7 +23533,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Oh, I do enjoy indulging in a drink or two. Doesn\u2019t it make socializing
+    easier?"
   textSpeed: 0
 --- !u!114 &7203672434320441706
 MonoBehaviour:
@@ -23582,7 +23579,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "I prefer to keep an unaltered mind\u2026 but the taste can be so appealing.
+    It\u2019s hard to resist, isn\u2019t it?"
   textSpeed: 0
 --- !u!114 &7204414513870874520
 MonoBehaviour:
@@ -23690,7 +23688,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "Ya\u2019ll like the ball of foot?"
   textSpeed: 0
   Ask: 
   Opinion:
@@ -23740,7 +23738,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Politely, fish reeks. And\u2026 hang on weren\u2019t you allergic? That was
+    you, right?"
   textSpeed: 0
 --- !u!114 &7228249707145593401
 MonoBehaviour:
@@ -24030,7 +24029,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24188,7 +24187,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I had so many scripts to review lately, I don\u2019t know if I\u2019ll ever
+    want to read again! "
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24347,7 +24347,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - I positively ADORE some reality TV. The drama and stakes are Lovely!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -24487,7 +24487,7 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Hm? I respect them as an art, but don\u2019t play many."
   textSpeed: 0
 --- !u!114 &7644181731464628375
 MonoBehaviour:
@@ -24577,7 +24577,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "Ah, I do tend to overindulge when I allow myself. It\u2019s a rueful enjoyment
+    for me."
   textSpeed: 0
 --- !u!114 &7751784004858873455
 MonoBehaviour:
@@ -24840,9 +24841,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - So, uh.. What types of games do you like?
-  - Any, um, any animes you watch? I have a couple I started recently
-  - How do you guys feel about hiking? I love touching grass!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Video Games
@@ -24954,7 +24953,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - So, uh.. What types of games do you like?
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25067,7 +25066,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25315,7 +25314,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "They\u2019ve sure got a lot of art displayed around."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25365,7 +25364,8 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - "The colors are so nice to look at, and the tops are so smooth\u2026 if only
+    it settled better in my stomach."
   textSpeed: 0
 --- !u!114 &8157793167870768868
 MonoBehaviour:
@@ -25515,10 +25515,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "I\u2019m more used to Rock \u2018n Roll in my circles than this classic stuff."
-  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
-    enough."
-  - Those macarons they have are so cuuute! Such pretty colors too!-
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Rock n Roll
@@ -25630,7 +25627,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -25881,7 +25878,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26173,11 +26170,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
-    wonderful isn\u2019t it?"
-  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
-    what's not to love?
-  - Do you enjoy fish? I greatly enjoy it and eat it daily!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Sports
@@ -26426,7 +26419,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Do you enjoy fish? I greatly enjoy it and eat it daily!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26535,11 +26528,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - "Do you enjoy sports? The passion, the competition, the athleticism! Ah, it's
-    wonderful isn\u2019t it?"
-  - Do you enjoy hiking? Getting in some cardio while enjoying the splendor of nature,
-    what's not to love?
-  - Do you enjoy fish? I greatly enjoy it and eat it daily!
+  - (Looks like the ball is in my court. What should I talk about?)
   textSpeed: 0
   Answers:
   - Sports
@@ -26651,7 +26640,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - Those macarons they have are so cuuute! Such pretty colors too!-
   textSpeed: 0
   Ask: 
   Opinion:
@@ -26856,7 +26845,8 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - "This isn\u2019t my typical drink of choice, but it matches the atmosphere well
+    enough."
   textSpeed: 0
   Ask: 
   Opinion:
@@ -27014,7 +27004,7 @@ MonoBehaviour:
   portrait: {fileID: -4688548482298534288, guid: 2ac0b270a078feb449c5a58b943191aa, type: 3}
   speakerName: Cam
   DialogText:
-  - 
+  - How do you guys feel about hiking? I love touching grass!
   textSpeed: 0
   Ask: 
   Opinion:
@@ -27064,7 +27054,9 @@ MonoBehaviour:
   portrait: {fileID: -5680732957743450394, guid: 0031a801cb69aa44b9bf7b8c49923d37, type: 3}
   speakerName: Scarlet
   DialogText:
-  - 
+  - " I quite enjoy reading. You can learn so much about people from what they read.
+    Like you! You read scripts, because you are a nerd. \u2026that\u2019s not rude
+    to say, right?"
   textSpeed: 0
 --- !u!114 &9191056106064313068
 MonoBehaviour:
