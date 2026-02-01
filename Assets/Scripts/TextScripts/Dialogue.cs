@@ -251,6 +251,19 @@ public class Dialogue : MonoBehaviour
                 StartCoroutine(TypeLine());
             }
         }
+        else if(activeSegment is DialogMaskSegment)
+        {
+            Debug.Log((activeSegment as DialogMaskSegment).GetValue((activeSegment as DialogMaskSegment).GetPort("Ask")));
+            for(int i = 0; i<(activeSegment as DialogMaskSegment).Masks.Count; i++)
+            {
+                if(Player.Instance.mask == (activeSegment as DialogMaskSegment).Masks[i])
+                {
+                    UpdateDialog(activeSegment.GetPort("Masks " + i).Connection.node as DialogSegment);
+                TextBoxManager.Instance.textComponent.text = string.Empty;
+                StartCoroutine(TypeLine());
+                }
+            }
+        }
         else
         {
              if (activeSegment.GetPort("output").IsConnected)
@@ -328,7 +341,7 @@ public class Dialogue : MonoBehaviour
         
     }
 
-     private void UpdateDialog(DialogSegment newSegment)
+     public void UpdateDialog(DialogSegment newSegment)
         {
             index = 0;
             activeSegment = newSegment;
